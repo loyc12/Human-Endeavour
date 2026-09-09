@@ -6,7 +6,6 @@
       {
         "id": "0e75d3b61da78f68",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "97e72b7fcdfe898d",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Narrative/Title Ideas.md",
+                "file": "00 Core/02 Thesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Title Ideas"
+              "title": "02 Thesis"
             }
           }
         ]
@@ -81,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 544.7000122070312
   },
   "right": {
     "id": "a7bbb1e3eb40c7aa",
@@ -200,10 +199,25 @@
   },
   "active": "97e72b7fcdfe898d",
   "lastOpenFiles": [
+    "00 Core/08 Worldbuilding.md",
+    "00 Core/07 Open Questions.md",
+    "00 Core/06 Methodology.md",
+    "00 Core/05 Themes.md",
+    "00 Core/03 Premise.md",
+    "00 Core/02 Thesis.md",
+    "AGENT.md",
+    "07 Temp/08 Worldbuilding.md",
+    "07 Temp/07 Open Questions.md",
+    "07 Temp/06 Methodology.md",
+    "07 Temp/05 Themes.md",
+    "07 Temp/03 Premise.md",
+    "07 Temp/02 Thesis.md",
+    "99 Workshop",
+    "00 Core/01 Axioms.md",
+    "04 Narrative/Title Ideas.md",
     "04 Narrative/Arcs/Protag.md",
     "04 Narrative/KB Characters.md",
     "04 Narrative/Characters/Protag.md",
-    "04 Narrative/Title Ideas.md",
     "04 Narrative/General Ideas.md",
     "04 Narrative/KB Story Beats.md",
     "04 Narrative/Characters/Archetypes.md",
@@ -212,20 +226,6 @@
     "04 Narrative/Arcs/Golem.md",
     "02 World/Cosmology/The Surface.md",
     "01 Magic system/01 Key Concepts/13 Material Affinities.md",
-    "01 Magic system/01 Key Concepts/02 Mana Dynamics.md",
-    "01 Magic system/01 Key Concepts/12 Attribute Theory.md",
-    "01 Magic system/01 Key Concepts/09 Casting Practices.md",
-    "03 Society/Science/Philosophy.md",
-    "03 Society/Science/Knowledge Systems.md",
-    "03 Society/Politics/Magocracies.md",
-    "03 Society/Politics/Ideas.md",
-    "03 Society/Orgs/Houses.md",
-    "03 Society/Orgs/Guilds.md",
-    "03 Society/Economy/Magical Development.md",
-    "03 Society/Day to Day/Ideas.md",
-    "03 Society/Culture/Languages.md",
-    "03 Society/Culture/Ideas.md",
-    "02 World/Sapiens/Ideas.md",
     "04 Narrative/Locations",
     "02 World/Cosmology",
     "01 Magic system/01 Key Concepts",
@@ -234,7 +234,6 @@
     "01 Magic system/05 Applied Thaumaturgy",
     "01 Magic system/04 Spell Engineering",
     "01 Magic system/03 Casting Theory",
-    "01 Magic system/02 Construct Engineering",
-    "02 World/Magic (new)/02 Attribute Theory"
+    "01 Magic system/02 Construct Engineering"
   ]
 }
