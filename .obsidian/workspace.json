@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Core/06 Worldbuilding.md",
+                "file": "04 Narrative/Title Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Worldbuilding"
+              "title": "Title Ideas"
             }
           }
         ]
@@ -199,11 +199,22 @@
   },
   "active": "97e72b7fcdfe898d",
   "lastOpenFiles": [
+    "04 Narrative/KB Story Beats.md",
+    "04 Narrative/KB Characters.md",
+    "03 Society/General Ideas.md",
+    "02 World/General Ideas.md",
+    "01 Technologies/General Ideas.md",
+    "01 Technologies/02 Devices Descriptions/02 Thermal Battery Banks.md",
+    "01 Technologies/02 Devices Descriptions/01 Phonetic Mapping and Semantic Translation.md",
+    "01 Technologies/02 Devices Descriptions/00 Overview.md",
+    "01 Technologies/01 Key Concepts/00 Overview.md",
+    "00 Core/07 Terminology.md",
+    "00 Core/06 Worldbuilding.md",
+    "01 Technologies/02 Devices Descriptions",
     "00 Core/05 Methodology.md",
     "00 Core/04 Themes.md",
     "00 Core/03 Premise.md",
     "00 Core/02 Thesis.md",
-    "00 Core/06 Worldbuilding.md",
     "00 Core/07 Open Questions.md",
     "AGENT.md",
     "07 Temp/08 Worldbuilding.md",
@@ -216,16 +227,6 @@
     "00 Core/01 Axioms.md",
     "04 Narrative/Title Ideas.md",
     "04 Narrative/Arcs/Protag.md",
-    "04 Narrative/KB Characters.md",
-    "04 Narrative/Characters/Protag.md",
-    "04 Narrative/General Ideas.md",
-    "04 Narrative/KB Story Beats.md",
-    "04 Narrative/Characters/Archetypes.md",
-    "04 Narrative/Characters/Philosophies.md",
-    "04 Narrative/Arcs/Global.md",
-    "04 Narrative/Arcs/Golem.md",
-    "02 World/Cosmology/The Surface.md",
-    "01 Magic system/01 Key Concepts/13 Material Affinities.md",
     "04 Narrative/Locations",
     "02 World/Cosmology",
     "01 Magic system/01 Key Concepts",
@@ -233,7 +234,6 @@
     "01 Magic system/02 Additional Disciplines",
     "01 Magic system/05 Applied Thaumaturgy",
     "01 Magic system/04 Spell Engineering",
-    "01 Magic system/03 Casting Theory",
-    "01 Magic system/02 Construct Engineering"
+    "01 Magic system/03 Casting Theory"
   ]
 }
