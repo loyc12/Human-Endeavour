@@ -38,3 +38,8 @@ A vessel designed to safely house and support multiple sapient species in one su
 
 Working description for the Milky Way governmental framework sponsoring the vessel. It is mainly led by large human polities while incorporating significant non-human participation. Its proper name, member structure, and distribution of authority remain open.
 
+## Human-Default Design
+
+The tendency for a shared system to treat human requirements as its baseline and accommodate other needs as additions or exceptions. On the pilot vessel, this arises from human plurality, the maturity and availability of human-space design, and a predominantly human-space industrial base—not an official claim that human needs matter more.
+
+Human-default design can still impose unequal inconvenience, cost, or risk. It is therefore a legitimate subject of criticism from people who experience it, even where the designers made good-faith efforts at accommodation.

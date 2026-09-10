@@ -1,6 +1,6 @@
 # Technology: General Ideas
 
-Technology in Human Endeavour should be advanced, useful, and legible without becoming an answer to every problem. A system gains story value from what it requires, what it cannot do, and whose access or expertise it depends upon.
+Technology in Human Endeavour should be advanced, useful, and legible without becoming an answer to every problem, in keeping with the [[00 Core/01 Axioms|setting axioms]]. A system gains story value from what it requires, what it cannot do, and whose access or expertise it depends upon.
 
 ## Reference Structure
 
