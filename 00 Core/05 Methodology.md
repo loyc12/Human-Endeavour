@@ -1,6 +1,10 @@
 
 # Worldbuilding Method
 
+## Intended Use
+
+This is an authorial tool. It should guide brainstorming and audits, not appear as a universal in-setting theory of how every civilisation thinks.
+
 For any topic, distinguish these layers:
 
 | Layer | Question |
@@ -22,7 +26,3 @@ For any topic, distinguish these layers:
 ## Detail Threshold
 
 Specify a mechanism far enough to determine what it can and cannot do in a scene, how it fails, and why people cannot effortlessly circumvent it. Do not invent a numerical model merely to make a concept feel rigorous.
-
-## Intended Use
-
-This is an authorial tool. It should guide brainstorming and audits, not appear as a universal in-setting theory of how every civilisation thinks.

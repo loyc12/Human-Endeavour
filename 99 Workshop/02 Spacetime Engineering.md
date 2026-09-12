@@ -1,6 +1,6 @@
 # Spacetime Engineering
 
-**Status: Exploring**  
+**Status: Exploring**
 **Approval: Required before canonisation**
 
 ## Direction

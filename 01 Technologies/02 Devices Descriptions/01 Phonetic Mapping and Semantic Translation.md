@@ -1,5 +1,9 @@
 # Phonetic Mapping and Translation
 
+## Intended Use
+
+This document owns the general communication-device concept. Species-specific language and sensory requirements belong in their respective references once established.
+
 ## Current Foundation
 
 Translation systems allow speakers of different languages and species to communicate, but do not make communication frictionless. They can provide semantic translation and, where useful, phonetic mapping: an assisted attempt to render one speaker's sounds through another language's phonological system.
@@ -24,7 +28,3 @@ The exact division between implants, worn devices, environmental systems, and ex
 - Which parts of a translation are local to the user, shared with a room, or sent through a network?
 - Can users inspect or correct a translation, and how is this handled during diplomacy, contracts, or testimony?
 - What kinds of cognitive fatigue or sensory overload does sustained assistance create?
-
-## Intended Use
-
-This document owns the general communication-device concept. Species-specific language and sensory requirements belong in their respective references once established.

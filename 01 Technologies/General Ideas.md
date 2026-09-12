@@ -1,5 +1,9 @@
 # Technology: General Ideas
 
+## Intended Use
+
+This file records broad technological direction. Detailed mechanics belong in their owning documents once their narrative requirements have been validated.
+
 Technology in Human Endeavour should be advanced, useful, and legible without becoming an answer to every problem, in keeping with the [[00 Core/01 Axioms|setting axioms]]. A system gains story value from what it requires, what it cannot do, and whose access or expertise it depends upon.
 
 ## Reference Structure
@@ -14,7 +18,3 @@ Technology in Human Endeavour should be advanced, useful, and legible without be
 - Accessibility and multispecies accommodation are engineering and political concerns, not decorative features.
 - Translation and interface systems should enable communication while preserving uncertainty, choice, cultural difference, and the possibility of misunderstanding.
 - Thermal management is a persistent constraint: stored heat is deferred disposal, not disposal.
-
-## Intended Use
-
-This file records broad technological direction. Detailed mechanics belong in their owning documents once their narrative requirements have been validated.

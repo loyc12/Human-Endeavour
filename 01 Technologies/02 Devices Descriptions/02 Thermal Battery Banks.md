@@ -1,5 +1,9 @@
 # Thermal Battery Banks
 
+## Intended Use
+
+This document owns the operational concept of shipboard thermal storage. Broader heat-rejection technology belongs in [[01 Technologies/01 Key Concepts/00 Overview|Key Concepts]] when its physics and ship-scale constraints are defined.
+
 ## Current Foundation
 
 Thermal battery banks temporarily absorb and store waste heat when a vessel cannot reject it fast enough through its heat-dump or radiator systems. They delay an overheating crisis; they do not remove heat from the vessel's long-term energy balance.
@@ -20,7 +24,3 @@ Their displayed percentage should refer to the fraction of safe heat-storage cap
 - How much heat can be stored relative to the ship's ordinary and emergency power loads?
 - What specific failures make a bank vent, rupture, poison a compartment, or become unrecoverable?
 - What heat-rejection methods complement banks during travel, concealment, docking, and emergency repair?
-
-## Intended Use
-
-This document owns the operational concept of shipboard thermal storage. Broader heat-rejection technology belongs in [[01 Technologies/01 Key Concepts/00 Overview|Key Concepts]] when its physics and ship-scale constraints are defined.

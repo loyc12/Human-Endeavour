@@ -1,7 +1,11 @@
 # Opening and Early Arc Seeds
 
-**Status: Exploring**  
+**Status: Exploring**
 **Approval: Required before canonisation**
+
+## Intended Use
+
+Use this document when planning the opening and first recovery arc. Promote a choice only after it is reconciled with the crew snapshot, narrative foundation, and postponed anomaly decisions.
 
 This page extracts potentially compatible material from `FAR.md`, `Far Storyboard.md`, `Datamai's Journey.md`, and a later opening-fragment draft. It does not adopt their older political history, character names, ship scale, or technical explanations as canon.
 
@@ -54,7 +58,3 @@ Their direct command relationship, emergency dependence, and housing scarcity cr
 `FAR.md`'s liberation from an alien empire, universal species census, named member-state counts, and Senate/UCAF structure belong to an older setting model. They should remain alternative material unless the current human-diaspora and uplift history is deliberately replaced.
 
 `Datamai's Journey.md`'s serf-escape story is a separate premise. Its relevant transferable question is how ostensibly advanced societies can create material dependency and political domination without reducing every institution or character to a simple villain.
-
-## Intended Use
-
-Use this document when planning the opening and first recovery arc. Promote a choice only after it is reconciled with the crew snapshot, narrative foundation, and postponed anomaly decisions.

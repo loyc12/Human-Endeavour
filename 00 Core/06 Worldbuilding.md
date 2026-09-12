@@ -1,5 +1,9 @@
 # Recommended Build Order
 
+## Intended Use
+
+This is a dependency guide, not a requirement to complete every tier before writing scenes. Prioritise the next unresolved constraint that will change several later decisions or directly support the current narrative work.
+
 0. Core premise and narrative promise
 1. Physics, FTL, and communication constraints
 2. The vessel, crew, damage, and survival economy
@@ -138,7 +142,3 @@ For each organization, society or polity define:
 - Design interactions before isolated factions.
 - Every major system should influence several others.
 - Every worldbuilding decision should create downstream consequences.
-
-## Intended Use
-
-This is a dependency guide, not a requirement to complete every tier before writing scenes. Prioritise the next unresolved constraint that will change several later decisions or directly support the current narrative work.

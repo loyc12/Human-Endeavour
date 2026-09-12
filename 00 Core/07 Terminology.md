@@ -1,10 +1,10 @@
 # Terminology
 
-This file records author-facing working meanings for terms that can easily become ambiguous or politically loaded. These definitions guide consistent writing; they do not require every character or polity to accept them.
-
-### Intended Use
+## Intended Use
 
 Link this document at the first useful use of one of these terms in author-facing setting notes. When an in-universe speaker uses a contested term, retain their chosen wording and make its perspective clear through context.
+
+This file records author-facing working meanings for terms that can easily become ambiguous or politically loaded. These definitions guide consistent writing; they do not require every character or polity to accept them.
 
 ## Sapient Species / Sapiens
 

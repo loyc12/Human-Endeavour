@@ -3,6 +3,10 @@
 **Status: Exploring**
 **Approval: Required before canonisation**
 
+## Intended Use
+
+Promote individual decisions from this page only after checking them against current terminology, the ship snapshot, and the intended first narrative arc.
+
 This page preserves compatible fragments from older HSC notes. Names, dates, organisations, roles, and medical details may conflict with newer drafts; none should be assumed current canon without explicit approval.
 
 ## Historical Spine Candidates
@@ -45,7 +49,3 @@ The useful unit here is a character's pressures, coping strategy, surface impres
 - Reconnection by FTL can create a frontier rush without requiring continuous war.
 - Uplift and rapid technological transfer can produce dependency, unequal sovereignty, cultural loss, or political backlash even where individual participants acted with good intentions.
 - A more distant setting may contain human-descended societies that are culturally unfamiliar enough to complicate the simple human/xeno distinction.
-
-## Intended Use
-
-Promote individual decisions from this page only after checking them against current terminology, the ship snapshot, and the intended first narrative arc.

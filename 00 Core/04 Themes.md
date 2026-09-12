@@ -1,5 +1,13 @@
 # Central Themes
 
+## Intended Use
+
+Use this file to test whether a proposed character arc, conflict, technological choice, or encounter supports the story's concerns. Detailed ethical positions belong with the people and institutions that hold them.
+
+### Use of Tensions
+
+These are questions to be dramatised, not binary positions that the story must settle once and for all. Different crew members, institutions, and societies can have principled, self-interested, or mixed answers.
+
 | Theme                | Central Question                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------- |
 | Home and belonging   | What makes a place, a ship, or a group into home when return is uncertain?            |
@@ -25,11 +33,3 @@
 | Personhood | Familiar cognition versus genuinely inclusive moral recognition |
 | Governance | Effective emergency authority versus legitimacy, transparency, and dissent |
 | Home | Restoration of the old life versus building a worthwhile new one |
-
-## Use of Tensions
-
-These are questions to be dramatised, not binary positions that the story must settle once and for all. Different crew members, institutions, and societies can have principled, self-interested, or mixed answers.
-
-## Intended Use
-
-Use this file to test whether a proposed character arc, conflict, technological choice, or encounter supports the story's concerns. Detailed ethical positions belong with the people and institutions that hold them.

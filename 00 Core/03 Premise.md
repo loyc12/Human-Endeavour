@@ -1,5 +1,9 @@
 # Core Premise
 
+## Intended Use
+
+This is the concise author-facing premise. Once the open foundations are decided, link from this page to the detailed ship, anomaly, travel, and civilisation references that own each subject.
+
 | Aspect                  | Current foundation                                                                                                                                                                                    |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Genre                   | Character-driven, hard science-fiction exploration and survival story.                                                                                                                                |
@@ -42,7 +46,3 @@ The following questions are intentionally unresolved and should be answered befo
 - How do FTL travel, interstellar communication, navigation, and energy supply work, and which limitations make the return journey difficult rather than impossible?
 - Which Andromedan civilisations or historical paths make the first region compelling and distinct from the Milky Way?
 - What does a credible route home require, and what moral or strategic costs could pursuing it impose?
-
-## Intended Use
-
-This is the concise author-facing premise. Once the open foundations are decided, link from this page to the detailed ship, anomaly, travel, and civilisation references that own each subject.

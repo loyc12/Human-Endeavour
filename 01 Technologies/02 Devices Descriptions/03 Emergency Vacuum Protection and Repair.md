@@ -1,5 +1,9 @@
 # Emergency Vacuum Protection and Repair
 
+## Intended Use
+
+This document owns the initial emergency-vacuum and repair concepts. A future life-support reference should own the broader physiology, compartmentalisation, atmosphere, and rescue doctrine.
+
 ## Current Foundation
 
 Rapid depressurisation is a recurring shipboard hazard. Emergency equipment can improve survival and buy time for rescue, but does not make vacuum harmless or remove the need for sealed compartments, training, and rapid damage control.
@@ -33,7 +37,3 @@ Flexible, sealable external enclosures can be attached around a damaged hull sec
 - Does a respiratory interface require prior surgery, and how common is voluntary implantation?
 - What failures can an external repair enclosure safely address, and what failures require abandoning the compartment or the ship section?
 - What physical process makes VRW fast enough for emergency repair without making conventional manufacturing obsolete?
-
-## Intended Use
-
-This document owns the initial emergency-vacuum and repair concepts. A future life-support reference should own the broader physiology, compartmentalisation, atmosphere, and rescue doctrine.

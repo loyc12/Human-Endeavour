@@ -1,5 +1,9 @@
 # Core Thesis
 
+## Intended Use
+
+This file states the story's broad claims about people, knowledge, technology, and hope. It guides choices among otherwise plausible options; it does not establish plot events or technical rules.
+
 Civilisations endure and improve not merely through intelligence or advanced tools, but through the patient construction of reliable knowledge, institutions capable of learning, and relationships built on mutual understanding.
 
 # Secondary Ideas
@@ -31,7 +35,3 @@ Hope is neither optimism without evidence nor the absence of catastrophe. It is 
 ## Exploration is reciprocal
 
 The crew's journey is not a one-sided encounter with a backdrop called Andromeda. Every contact changes what the visitors understand about themselves, while the visitors' presence may impose risks and responsibilities on people who did not ask for it.
-
-## Intended Use
-
-This file states the story's broad claims about people, knowledge, technology, and hope. It guides choices among otherwise plausible options; it does not establish plot events or technical rules.
