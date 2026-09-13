@@ -11,19 +11,15 @@ This page preserves compatible fragments from older HSC notes. Names, dates, org
 
 ## Historical Spine Candidates
 
-- The setting is approximately twelve thousand years in the future.
-- A long period of sublight expansion creates a broad, culturally divergent human and post-human diaspora before FTL becomes mature.
-- Fast FTL is comparatively recent, perhaps no more than five centuries old. It reconnects previously distant settlements, increases trade, and enables new regional governments or confederations.
-- Most known sapient peoples remain historically entangled with human expansion, modification, or uplift. The discovery of an independently developed technological civilisation changes xenological thought and encourages the multispecies vessel project.
+- The approved historical baseline is an approximately eight-thousand-year setting, a 0.05c sublight diaspora, FTL discovery at 260 BCD, and a mature reconnection era only about a century old. It is owned by [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]] and [[99 Workshop/06 Space Travel Scaling Model|Space Travel Scaling Model]].
+- Most known sapient peoples remain historically entangled with human expansion, modification, or uplift. Exactly one independently technological alien civilisation was contacted about 150 BCD; its post-contact technological and civilisational uplift, continuing polities, and dispersed diaspora change xenological thought and encourage the multispecies vessel project.
 - The political centre is decentralised in many local matters but has stronger coordinating roles in security, science, and major economic infrastructure.
 - Remote polities may have negotiated autonomy, dominion, or federation arrangements rather than being governed uniformly from a central core.
 
-### Questions Before Approval
+### Remaining Historical Questions
 
-- Is the twelve-thousand-year date useful to the story, and what calendar anchors it?
-- How large is settled space in practice: a few hundred, a few thousand, or tens of thousands of light-years across?
 - Was FTL invented by a particular human-derived polity, discovered jointly, or developed through a breakthrough with consequences for power and legitimacy?
-- How does the sole independently technological species retain genuine agency after contact and uplift?
+- How do the sole independent civilisation's own polities retain agency, including during post-contact uplift and diaspora formation?
 
 ## Ship Seeds
 

@@ -9,6 +9,8 @@ The setting may use an advanced branch of physics capable of deliberately manipu
 
 The intended benefit is a common conceptual lineage for FTL travel, communications, artificial gravity, and inertial management. It must remain a constrained engineering discipline rather than a general-purpose ability to rewrite reality.
 
+For an author-facing quantitative tool that keeps individual travel, exploration, infrastructure growth, and settlement expansion separate, see [[99 Workshop/06 Space Travel Scaling Model|Space Travel Scaling Model]]. It proposes no selected values and remains conditional on the decisions in this document.
+
 ## Current Design Preference
 
 Gravity plating is intended to be common enough aboard major vessels that ordinary walking in large non-rotating spaces is familiar. It remains constrained by power use, field coverage, maintenance, and failure modes, so gravity is useful infrastructure rather than invisible background.

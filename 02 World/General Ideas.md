@@ -4,6 +4,10 @@
 
 This file holds broad physical and environmental premises. Move a validated arrival-region model into a dedicated reference when it begins to constrain locations, plots, or technology.
 
+## History
+
+The BCD-dated historical spine and selected settlement-region scale are recorded in [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]]. Its uplift history and the implications of contact with the sole known independently technological civilisation receive separate scrutiny in [[02 World/01 History/01 Uplift, Adaptation, and Sovereignty|Uplift, Adaptation, and Sovereignty]] and [[02 World/01 History/02 Independent Technological Civilisations|Independent Technological Civilisations]]. Detailed demographic, political, and technological mechanisms remain open where those documents say so.
+
 ## Anomaly Endpoint Region
 
 **Status: Provisional.** The [[00 Core/03 Premise|ship]] may emerge in a region that functions as a frequent endpoint for spatial anomalies. It is primarily a dense, unusual field of naturally accumulated matter, but contains a noticeable minority of artificial structures and wreckage captured from elsewhere.

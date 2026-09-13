@@ -12,4 +12,4 @@ Large projects are ordinarily expected to conclude within participants' lifetime
 
 The political environment, economic distribution, and degree of material abundance remain open. Do not infer a universal post-scarcity society from the relative routine of space travel.
 
-The active exploration of the historical spine, reconnection, spatial political economy, and shared civilisational practices is collected in [[99 Workshop/05 Milky Way Astropolitical Foundations|Milky Way Astropolitical Foundations]]. Its conclusions remain non-canon until approved and must remain consistent with the still-open FTL and communications constraints.
+The approved historical spine and travel-scale baseline are collected in [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]] and [[99 Workshop/06 Space Travel Scaling Model|Space Travel Scaling Model]]. Political economy and shared civilisational practices remain active exploration in [[99 Workshop/05 Milky Way Astropolitical Foundations|Milky Way Astropolitical Foundations]], and must remain consistent with the still-open FTL mechanism and communications constraints.

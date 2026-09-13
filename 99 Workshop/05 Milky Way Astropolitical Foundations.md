@@ -33,6 +33,8 @@ Long pre-FTL separation makes heterogeneity foundational. Several centuries of F
 
 The answers below must remain conditional on the unresolved FTL, navigation, communication, and energy constraints in [[99 Workshop/02 Spacetime Engineering|Spacetime Engineering]]. In particular, travel time, communications latency, route capacity, navigation risk, and the cost of moving people or mass determine which political scales, markets, and integration mechanisms are credible. Record an answer here as provisional until those constraints are selected.
 
+Use [[99 Workshop/06 Space Travel Scaling Model|Space Travel Scaling Model]] when testing numerical assumptions. Its formulae distinguish voyage speed from exploration coverage and durable settlement growth; do not infer either of the latter from a vessel's maximum cruise speed.
+
 ## First-Pass Questions
 
 Answer these in order. One or two qualitative paragraphs per question is enough for a first pass; do not move to detailed second-order institutions until this layer is coherent.
@@ -41,7 +43,9 @@ Answer these in order. One or two qualitative paragraphs per question is enough 
 
 Set the approximate sequence and duration of early space settlement, extrasolar expansion, the long pre-FTL diaspora, isolation and divergence, FTL development, reconnection, widespread uplift, substantial alien contact, and the present era.
 
-Existing candidates: the setting may be roughly twelve thousand years in the future; fast FTL may be no more than five centuries old. These are exploring seeds, not canon. See [[99 Workshop/03 Historical and Character Seeds|historical seeds]].
+**Selected baseline:** The present is about eight thousand years after early human space settlement. The long, uneven sublight diaspora advances at an average of `0.05c` and reaches roughly 390 ly from the historical core before FTL. FTL first exceeds `1c` about 260 BCD, remains slow and expensive for roughly a century, and reaches routine short-travel significance on mature corridors about 100 BCD. Present mature corridors support about 75--150c ordinary travel and exceptional express routes up to 500c, while support, navigation, capital, and willing migrants hold durable settlement growth far below cruise capability. Characteristic route, settlement, and selected exploration extents are about 820, 790, and 1,230 ly respectively. Earlier forms of uplift predate reconnection, while its widespread institutional and technological consequences belong chiefly to it. Exactly one independently technological alien civilisation was contacted about 150 BCD and has since undergone uneven, negotiated technological and civilisational uplift, including a geographically dispersed diaspora beyond its own polities.
+
+The full selected chronology, its caveats, and the remaining decision points around uplift and independent contact are in [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]]. The mechanism, communications model, and detailed demographic distribution remain open. See also [[99 Workshop/03 Historical and Character Seeds|historical seeds]].
 
 ### 2. Scale of the Pre-FTL Diaspora
 
