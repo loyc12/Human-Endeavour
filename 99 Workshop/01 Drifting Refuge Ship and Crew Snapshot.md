@@ -1,6 +1,6 @@
 # Drifting Refuge: Ship and Crew Snapshot
 
-**Status: Exploring**  
+**Status: Exploring**
 **Approval: Required before canonisation**
 
 This is a consolidated working snapshot from `DR Ship - Info.tsv`. It preserves useful numerical, organisational, and narrative material without resolving conflicts with other drafts.

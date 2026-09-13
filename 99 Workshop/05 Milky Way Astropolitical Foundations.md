@@ -1,7 +1,7 @@
 # Milky Way Astropolitical Foundations
 
 **Status: Exploring**
-**Approval: Required before canonisation**
+**Approval: Required before full canonisation**
 
 ## Purpose and Scope
 
