@@ -9,7 +9,7 @@ This workbook establishes the first-order civilisational structure of human-touc
 
 ## Intended Use
 
-This document is a workshop constraint layer. Its next use is to develop rough answers to the twenty-five questions below, then use the resulting model to constrain later work on political institutions, Core--Rim political economy, corporations, trade, money, migration, rights, alien diplomacy, military structures, sovereignty, and particular factions or states.
+This document is a workshop constraint layer. Its next use is to develop rough answers to the fourteen decision packages below, then use the resulting model to constrain later work on political institutions, Core--Rim political economy, corporations, trade, money, migration, rights, alien diplomacy, military structures, sovereignty, and particular factions or states.
 
 Treat human-touched space as a civilisational system rather than a collection of discrete states. The central question is: **what makes radically different societies recognisable participants in one interstellar civilisation while they remain politically, culturally, economically, and biologically heterogeneous?**
 
@@ -37,13 +37,13 @@ Use [[99 Workshop/06 Space Travel Scaling Model|Space Travel Scaling Model]] whe
 
 ## First-Pass Questions
 
-Answer these in order. One or two qualitative paragraphs per question is enough for a first pass; do not move to detailed second-order institutions until this layer is coherent.
+Answer these in order. One or two qualitative paragraphs per decision package is enough for a first pass; do not move to detailed second-order institutions until this layer is coherent. Questions 1--3 are selected constraints. The later packages merge related concerns and omit questions already answered by the settlement history and topology.
 
 ### 1. Broad Historical Timeline
 
 Set the approximate sequence and duration of early space settlement, extrasolar expansion, the long pre-FTL diaspora, isolation and divergence, FTL development, reconnection, widespread uplift, substantial alien contact, and the present era.
 
-**Selected baseline:** The present is about eight thousand years after early human space settlement. The long, uneven sublight diaspora advances at an average of `0.05c` and reaches roughly 390 ly from the historical core before FTL. FTL first exceeds `1c` about 260 BCD, remains slow and expensive for roughly a century, and reaches routine short-travel significance on mature corridors about 100 BCD. Present mature corridors support about 75--150c ordinary travel and exceptional express routes up to 500c, while support, navigation, capital, and willing migrants hold durable settlement growth far below cruise capability. Characteristic route, settlement, and selected exploration extents are about 820, 790, and 1,230 ly respectively. Earlier forms of uplift predate reconnection, while its widespread institutional and technological consequences belong chiefly to it. The first, and so far only, fully contacted independently spacefaring near-peer was encountered about 190 BCD; it had advanced system civilisation and tiny slow extrasolar footholds before contact, then underwent uneven technological acceleration and interstellar integration, including a geographically dispersed diaspora beyond its own polities.
+**Selected baseline:** The present is about eight thousand years after early human space settlement. The long, uneven sublight diaspora has ordinary durable settlement growth averaging about `0.05c` and reaches a characteristic outer extent of roughly 390 ly from Sol before FTL; rare early Sol-backed foundation expeditions travel up to about `0.1c` without filling that volume or making it uniformly mature. FTL first exceeds `1c` about 260 BCD, remains slow and expensive for roughly a century, and reaches routine short-travel significance on mature corridors about 100 BCD. Present mature corridors support about 75--150c ordinary travel and exceptional express routes up to 500c, while support, navigation, capital, and willing migrants hold durable settlement growth far below cruise capability. Characteristic route, settlement, and selected exploration extents are about 820, 790, and 1,230 ly respectively. Earlier forms of uplift predate reconnection, while its widespread institutional and technological consequences belong chiefly to it. The first, and so far only, fully contacted independently spacefaring near-peer was encountered about 190 BCD; it had advanced system civilisation and tiny slow extrasolar footholds before contact, then underwent uneven technological acceleration and interstellar integration, including a geographically dispersed diaspora beyond its own polities.
 
 The full selected chronology, its caveats, and the remaining decision points around uplift and independent contact are in [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]]. The mechanism, communications model, and detailed demographic distribution remain open. See also [[99 Workshop/03 Historical and Character Seeds|historical seeds]].
 
@@ -59,93 +59,49 @@ The selected settlement genealogy, timescale check, and pre-FTL information econ
 
 The detailed topology vocabulary and its consequences are in [[02 World/01 History/05 Settlement Topology and Connectivity|Settlement Topology and Connectivity]]. Exact travel, communications, and route-capacity behaviour remains conditional on the FTL model.
 
-### 4. Transformative Effect of FTL
+### 4. FTL, Reconnection, and the Present Order
 
-Establish how FTL changes travel, communication, migration, commerce, warfare, administration, and feasible political scale. Distinguish movement of people and mass from movement of information: decide how "small" each makes interstellar space feel without erasing the axiomatic importance of distance, logistics, and access.
+Using the already selected 260-year FTL history and roughly century-old mature corridors, determine how FTL transforms the inherited corridor web: travel, communications, migration, commerce, administration, conflict, and feasible political scale. Distinguish people, mass, and information, and decide how unevenly reconnection has produced globalisation, technological diffusion, political integration, competition, and grievance. Do not choose a detailed physical FTL mechanism here; record consequences that remain conditional on [[99 Workshop/02 Spacetime Engineering|Spacetime Engineering]].
 
-### 5. Character of the Reconnection Era
+### 5. Material and Technological Baseline
 
-Determine the mixture of exploration, globalisation, migration, trade expansion, political integration, conquest, technological diffusion, and competitive expansion by multiple powers that follows reconnection. Avoid treating this as one uniform historical experience.
+Determine what well-resourced, ordinary, marginal, and frontier societies can reliably build, maintain, and repair. Establish the visible role of energy, heat, materials, precision manufacture, biological inputs, specialist labour, certified components, and local industrial depth. Distinguish ubiquitous mature capabilities, expensive specialist capabilities, frontier research, and genuinely exceptional projects so that technology does not flatten the setting's regional differences.
 
-### 6. Maturity of the Present Order
+### 6. Computation, Automation, and Artificial Persons
 
-Determine how long highly interconnected civilisation has existed: a newly formed unstable order, several generations, or centuries of mature institutions. This sets how much standardisation, convergence, and historical grievance can plausibly have accumulated.
+Determine what is routinely automated and what remains scarce because it needs accountable judgement, trust, embodied presence, responsibility, or creativity. Establish the relationship between autonomous systems and rare synthetic or artificial persons without treating either automation or personhood as a uniform category.
 
-### 7. Civilisational Technology Envelope and Bottlenecks
+### 7. Bodies, Medicine, Habitation, and Embodied Access
 
-Determine what well-resourced, ordinary, and marginal societies can reliably do. Distinguish ubiquitous mature technologies, expensive specialist capabilities, frontier research, and genuinely exceptional technologies. Identify the persistent bottlenecks—such as energy, waste heat, precision manufacture, scarce inputs, skilled labour, computation, biological inputs, maintenance, safe navigation, legal permission, or time—that prevent technology from flattening all differences.
+Determine how medicine, adaptation, reproduction, longevity, disability support, and environmental accommodation shape ordinary life. Compare the practical comfort, cost, resilience, accessibility, and social meaning of planets, orbital habitats, ships, subsurface settlements, and deliberately adapted environments. Keep this consistent with the setting's non-essentialist approach to species and lineages.
 
-### 8. Energy, Industry, Fabrication, and Repair
+### 8. FTL-Era Spatial Development and Expansion
 
-Establish how energy-rich ordinary life and industry are, and how visibly power generation, heat rejection, fuel, materials, and industrial infrastructure shape habitats, ships, and regional economies. Determine how far a system, vessel, or habitat can manufacture and maintain its own needs, and what still depends on specialised workshops, certified parts, expertise, or interstellar supply chains.
+The broad geography and pre-FTL topology are selected. Determine instead how reconnection changes the **use** of that geography: why particular mapped or reachable systems become settled, lightly settled, or integrated; why people establish new habitats or communities; and how corridor construction, scientific projects, autonomy, refuge, resource development, and cultural separation alter local dependence and political autonomy. Preserve the assumption that settlement follows interest and astrography rather than an endlessly uniform frontier wave.
 
-### 9. Computation, Automation, and Artificial Persons
+### 9. Population Geography, Lineages, and Mixing
 
-Determine what work is automated and what remains scarce because it needs judgement, responsibility, embodied presence, trust, or creativity. Establish the relationship between autonomous systems and the setting's rare synthetic people without treating either automation or personhood as a single uniform category.
+Establish the broad distribution of people among ancient centres, legacy civilisations, corridor worlds, frontier systems, planets, habitats, mobile communities, and recent settlements. Within that geography, determine the relative and regional importance of baseline humans, divergent human populations, uplifted peoples, synthetic or artificial persons, and the independently evolved near-peer diaspora. Distinguish historical population homelands, ecological concentrations, and mixed cosmopolitan societies without mapping lineage to culture or political allegiance.
 
-### 10. Bodies, Medicine, and Habitation
+### 10. Convergence, Shared Civilisation, and Local Difference
 
-Determine how far medicine can treat injury and disease, alter bodies, support reproduction, extend healthy life, or enable environmental adaptation. Compare the practical comfort, cost, accessibility, fragility, and resilience of planets, orbital habitats, ships, subsurface settlements, and adapted environments.
+Determine the shared technical floor, standards, languages or translation practices, scientific institutions, education, media, migration networks, and historical reference points that make reconnection-era societies mutually legible. Distinguish these from regional specialisations, prestige cultures, advanced outliers, and isolation-era institutions that remain durable. Reconnection must yield meaningful convergence without producing cultural or technological uniformity.
 
-### 11. Current Spatial Structure
+### 11. Ordinary Life, Inequality, and Resilience
 
-Define the practical geography of Core, intermediate regions, Rim or frontier, isolated pockets, and alien-contact zones. These may be geographic, historical, economic, political, or cultural categories rather than concentric distances from Earth.
+Establish what a secure ordinary person expects of housing, food, healthcare, education, privacy, mobility, recreation, information access, safety, and emergency support. Determine which essentials are public, market-mediated, communal, employer-controlled, or precarious, and how location, infrastructure, citizenship, wealth, lineage, and access needs shape them. Include the normal failure modes of habitats, transport, medicine, communication, climate, and supply, plus what redundancy, mutual aid, regulation, or insurance makes politically expected.
 
-### 12. Direction and Modes of Expansion
+### 12. Governance, Power, and Interstellar Order
 
-Determine why people still found new settlements: autonomy, resource access, scientific interest, ecological necessity, strategic competition, cultural separation, FTL-network growth, refuge, or other motives. Establish the broad forms expansion takes—planetary, orbital, mobile, industrial, scientific, extraction-led, or deliberately utopian—and how founding conditions shape later dependence, self-sufficiency, assimilation, and autonomy.
+Map the coexistence of local, planetary, system, multisystem, corporate, federative, confederal, and transregional authority without presuming a galactic state. Determine the broad balance among major centres, ordinary polities, corridor powers, institutions, and commercial actors; then identify the minimum diplomatic, commercial, navigation, legal, security, and conflict-resolution arrangements that make routine interaction possible. Treat route vulnerability, sabotage, blockade, accident, piracy, and invasion as questions of scale and protection, not automatic genre assumptions.
 
-### 13. Population Distribution
+### 13. Economic Integration and Uneven Capacity
 
-Distribute sapient populations broadly among ancient systems, old diaspora civilisations, frontier regions, planets, orbital or artificial habitats, mobile populations, and newly developed regions.
+Determine how the corridor web supports interconnected regional economies, rather than assuming either one seamless market or total autarky. Establish what can economically move between systems—data, people, specialist components, biological material, capital, and any justified bulk cargoes—and how finance, migration, corporations, research, standards, and local production interact. Compare the true core, legacy centres, corridor worlds, reconnection belt, and frontier in accumulated capital, productive depth, research, resources, growth, strategic importance, and political leverage without presuming that the core leads in every dimension.
 
-### 14. Species and Lineage Composition
+### 14. Defining Tensions of the Present Era
 
-Establish the relative importance of baseline humans, divergent human populations, uplifted species, rare synthetic or artificial persons, and independently evolved alien species. Do not assume baseline humans are demographically overwhelming merely because human expansion anchors much of the shared history.
-
-### 15. Population Mixing
-
-Determine the balance between regions identified with particular historical populations, cosmopolitan migration and mixed societies, and ecological or historical niches where particular species or lineages concentrate.
-
-### 16. Technological Convergence
-
-Distinguish a shared technological floor and widely standardised technologies from regional specialisations, advanced outliers, and lagging regions. Reconnection should not imply either total equality or unchanged isolation-era disparities.
-
-### 17. Cultural Interconnectedness
-
-Determine the equivalents of networked communications, lingua francas, science and academia, entertainment, education, journalism, migration, prestige cultures, and shared historical narratives. Establish their force relative to local identities.
-
-### 18. Mundane Life, Provision, and Inequality
-
-Establish what a secure, ordinary person expects of housing, food, healthcare, education, privacy, mobility, recreation, safety, and access to information. Determine which essentials are broadly guaranteed, market-mediated, communal, employer-controlled, or precarious, and how wealth, infrastructure, citizenship, lineage, disability or access needs, and location alter everyday security, work, status, and belonging.
-
-### 19. Risk, Resilience, and Emergency Culture
-
-Determine how often ordinary people face failures of habitat, transport, medicine, communication, climate, or supply. Establish which risks are normalised, insured, regulated, mutually supported, or politically scandalous, and how much redundancy or emergency capacity ordinary communities can afford.
-
-### 20. Political Topology
-
-Map the coexistence—not universal dominance—of local and planetary governments, system governments, multisystem states, federations or confederations, leagues, empires, corporate jurisdictions, and transnational or interstellar institutions.
-
-### 21. Broad Balance of Power
-
-Determine whether the order is unipolar, bipolar, multipolar, institutionally diffuse, or dominated by several overlapping kinds of power. Establish the rough gap between the largest actors and ordinary polities.
-
-### 22. Interstellar Order
-
-Identify the broad, non-detailed conditions that make routine interaction possible without presupposing a galactic state: diplomacy, treaties, commercial and navigation norms, communication standards, conflict-resolution mechanisms, international organisations, security arrangements, and legal conventions. Establish the routine vulnerability of habitats and routes to accident, sabotage, blockade, piracy, or invasion, and the scale of protection that follows from it.
-
-### 23. Economic Integration and Interstellar Logistics
-
-Determine whether human-touched space is one deeply integrated economy, several major blocs, interconnected regional economies, or a combination. Establish the broad importance of trade, capital flows, migration, corporations, information exchange, and finance. Specify what is economical to move between systems—people, data, high-value components, bulk commodities, energy carriers, or biological materials—and what this makes locally valuable.
-
-### 24. Wealth and Productive Capacity
-
-Compare Core and Rim in population, accumulated capital, industry, finance, research, natural resources, growth, strategic importance, and political leverage. The old Core need not dominate every dimension.
-
-### 25. Defining Tensions of the Present Era
-
-Identify the few structural contradictions that shape present politics before converting them into detailed policy disputes: Core and Rim; integration and local sovereignty; corporate and public power; old civilisations and recent reconnections; wealthy and developing regions; human, uplift, and posthuman identity; established institutions and growing alien contact; standardisation and cultural autonomy.
+Select the few structural contradictions that follow from the preceding model before converting them into detailed policy disputes. Likely candidates include integration and local sovereignty; corridor dependence and local autonomy; old legitimacy and newly connected populations; wealth and infrastructural inequality; public and corporate power; human, uplift, synthetic, and near-peer representation; and common standards versus cultural self-determination.
 
 ## Promotion Test
 
