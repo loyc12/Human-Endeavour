@@ -5,7 +5,7 @@
 
 ## Direction
 
-The setting may use an advanced branch of physics capable of deliberately manipulating local spacetime geometry or related fields. This replaces the earlier, incorrect use of quantum entanglement as an explanation for FTL communication or "entangled hydrogen."
+The setting may use an advanced branch of physics capable of deliberately manipulating local spacetime geometry or related fields. This replaces the earlier, incorrect use of quantum entanglement as an explanation for FTL communication or "entangled hydrogen." In the author-facing [[01 Technologies/00 Technology Taxonomy|Technology Taxonomy]], this is **setting-specific physics**: unlike extrapolative engineering such as rotational habitats or beam arrays, it requires novel science and must be separately bounded.
 
 The intended benefit is a common conceptual lineage for FTL travel, communications, artificial gravity, and inertial management. It must remain a constrained engineering discipline rather than a general-purpose ability to rewrite reality.
 

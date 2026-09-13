@@ -8,6 +8,7 @@ Technology in Human Endeavour should be advanced, useful, and legible without be
 
 ## Reference Structure
 
+- [[00 Technology Taxonomy|Technology Taxonomy]] is the author-facing catalogue. It distinguishes extrapolative engineering, setting-specific physics, rare realised megastructures, physically plausible but unproven concepts, and theoretical-only concepts; it also marks generic technologies that have received a distinctive setting implementation.
 - [[01 Technologies/01 Key Concepts/00 Overview|Key Concepts]] holds technologies or physical principles with broad consequences for the setting, such as FTL, communications, fabrication, or life support.
 - [[01 Technologies/02 Devices Descriptions/00 Overview|Device Descriptions]] holds bounded devices, interfaces, and infrastructure subsystems. Each document should explain purpose, operation, limitations, failure modes, and social consequences.
 
@@ -18,3 +19,5 @@ Technology in Human Endeavour should be advanced, useful, and legible without be
 - Accessibility and multispecies accommodation are engineering and political concerns, not decorative features.
 - Translation and interface systems should enable communication while preserving uncertainty, choice, cultural difference, and the possibility of misunderstanding.
 - Thermal management is a persistent constraint: stored heat is deferred disposal, not disposal.
+- Do not treat physically plausible but unproven technologies as routine merely because they appear in the catalogue. Their in-universe economic and operational status is a separate setting decision.
+- Surface-to-orbit infrastructure is environmentally selective: elevators chiefly serve low-gravity, low-atmosphere worlds, while skyhooks, rotovators, mass drivers, launch loops, and orbital rings often better suit more demanding worlds.

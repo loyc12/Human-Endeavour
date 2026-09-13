@@ -48,7 +48,7 @@ This does not make sparse regions permanently excluded. Given enough time, a rea
 
 ## Reconnection and Corridor Growth
 
-FTL reconnection strengthens the existing web without instantly regularising it. Early routes preferentially join places that already possess population, technical capacity, archives, commercial demand, or strategic significance. High-use connections then accumulate services, migration, standards, capital, and social familiarity, producing a self-reinforcing road structure.
+FTL reconnection strengthens the existing web without instantly regularising it. Early routes preferentially join places that already possess population, technical capacity, archives, commercial demand, or strategic significance. High-use connections then accumulate services, migration, standards, capital, and social familiarity, producing a self-reinforcing road structure. Conventional [[01 Technologies/01 Key Concepts/01 System-Scale Beam Arrays|beam-array networks]] persist alongside FTL corridors for intra-system logistics and slow, uncrewed interstellar resource flows, rather than being superseded by them.
 
 The resulting network is core-weighted but not exclusively Sol-centred. Historical Sol-to-foundation paths and links among major legacy centres form important trunks; later direct regional links create denser meshes within mature space. The sparse frontier remains branch-like and dependent on comparatively few connections.
 

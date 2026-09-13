@@ -1,5 +1,8 @@
 # Thermal Battery Banks
 
+**Physical basis: Extrapolative engineering**
+**Setting role: Signature implementation**
+
 ## Intended Use
 
 This document owns the operational concept of shipboard thermal storage. Broader heat-rejection technology belongs in [[01 Technologies/01 Key Concepts/00 Overview|Key Concepts]] when its physics and ship-scale constraints are defined.

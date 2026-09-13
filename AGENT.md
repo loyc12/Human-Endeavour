@@ -29,6 +29,7 @@ When changing a foundational concept, trace its direct and likely second- or thi
 - Ignore any "Legacy" folders unless explicitly needed for reference. Said content is to be treated as obsolete.
 - Numbered folders and filenames express reading order; preserve or deliberately repair that order when moving documents.
 - Use concise Obsidian links in the form `[[File Name|display text]]` at the first useful occurrence of a relevant concept, rather than linking every repetition.
+- Inside Markdown tables, escape every pipe within a link or embed with exactly one backslash: `[[File Name\|display text]]` or `![[Image.png\|200]]`. Keep ordinary `|` syntax outside tables. When moving links into or out of tables, adjust the escaping to match; never double-escape an existing `\|` or escape the table's column separators. Check that each table row has the intended number of cells and that alignment spaces have not been inserted inside link targets or labels.
 - Avoid unnecessary duplication: one document owns a detailed explanation; dependent documents provide only the context needed to remain readable.
 - Do not modify source guides, legacy notes, or empty idea files unless the task calls for it.
 - Before handoff, check Markdown structure, broken or stale references, and unintended changes.
