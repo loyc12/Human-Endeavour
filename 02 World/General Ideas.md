@@ -6,7 +6,7 @@ This file holds broad physical and environmental premises. Move a validated arri
 
 ## History
 
-The BCD-dated historical spine and selected settlement-region scale are recorded in [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]]. Its uplift history and the implications of contact with the sole known independently technological civilisation receive separate scrutiny in [[02 World/01 History/01 Uplift, Adaptation, and Sovereignty|Uplift, Adaptation, and Sovereignty]] and [[02 World/01 History/02 Independent Technological Civilisations|Independent Technological Civilisations]]. Detailed demographic, political, and technological mechanisms remain open where those documents say so.
+The BCD-dated historical spine and selected settlement-region scale are recorded in [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]]. Its uplift history, the implications of contact with the sole fully contacted independently spacefaring near-peer, and the wider technological-contact horizon receive separate scrutiny in [[02 World/01 History/01 Uplift, Adaptation, and Sovereignty|Uplift, Adaptation, and Sovereignty]], [[02 World/01 History/02 Independent Technological Civilisations|Independent Technological Civilisations]], and [[02 World/01 History/03 Technological Horizons and Contact History|Technological Horizons and Contact History]]. Detailed demographic, political, and technological mechanisms remain open where those documents say so.
 
 ## Anomaly Endpoint Region
 

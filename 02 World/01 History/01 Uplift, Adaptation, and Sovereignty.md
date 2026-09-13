@@ -8,7 +8,7 @@ This is a history-and-consequences inquiry, not a claim that every non-human per
 
 ## Working Historical Reading
 
-The selected timeline is not one galaxy-wide "uplift event." Some precursor interventions, engineered non-human populations, and highly modified human-descended lineages predate FTL and have their own long, local histories. Reconnection makes biological techniques, educational capacity, mobility, legal arguments, and sponsor institutions available across much more of human-touched space. The independent civilisation contacted about 150 BCD shares this later technological and civilisational uplift without being reduced to an uplift-created civilisation.
+The selected timeline is not one galaxy-wide "uplift event." Some precursor interventions, engineered non-human populations, and highly modified human-descended lineages predate FTL and have their own long, local histories. Reconnection makes biological techniques, educational capacity, mobility, legal arguments, and sponsor institutions available across much more of human-touched space. The independently spacefaring civilisation contacted about 190 BCD undergoes post-contact technological acceleration and interstellar integration; its people may choose later uplift without being reduced to an uplift-created civilisation.
 
 This permits uplifted peoples to be historically established rather than newly made, while keeping its large-scale politics current. A present-day adult may descend from a population altered long ago, participate in a recent voluntary adaptation programme, belong to a polity that rejected outside intervention, or have no connection to uplift at all. None of these conditions determines culture, personality, allegiance, or competence.
 

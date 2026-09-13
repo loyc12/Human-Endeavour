@@ -4,15 +4,18 @@
 
 ## Starting Constraint
 
-Exactly one known Milky Way alien civilisation has an [[00 Core/07 Terminology|independent technological history]]: its technological development did not originate in human intervention. It was proto-industrial at first contact about 150 BCD, in the early route era and within what has become the reconnection settlement belt. That asymmetry makes the contact historically sensitive even if no party intends conquest.
+One Milky Way alien civilisation has an [[00 Core/07 Terminology|independent technological history]] and is the first, and so far only, independently spacefaring civilisation met in sustained contact. It was encountered about 190 BCD, in the early route era and within what has become the reconnection settlement belt. Its status as the only fully contacted near-peer of human space makes that encounter a major cultural and intellectual shock.
 
-An independently developed people is not an uplifted people merely because later contact offers advanced technology, education, medicine, travel, or adaptation. Their prior institutions, intellectual traditions, political claims, and capacity to refuse remain real parts of the setting rather than a prelude to joining a human story. They have nevertheless experienced approximately a century and a half of uneven, partly chosen technological and civilisational uplift since contact.
+The civilisation originates on a habitable moon of a gas giant. Its environment produces difficult radiation, orbital, launch, and communications conditions, while its local moons and accessible volatiles support sophisticated in-system industry, habitats, and navigation. Before contact, it had centuries of spacefaring history, mature system-wide settlement, long-range probes, and a few tiny, slow interstellar footholds within nearby stars. It lacked reliable FTL and remained effectively confined to its local stellar neighbourhood.
+
+An independently developed people is not an uplifted people merely because later contact offers advanced technology, education, medicine, travel, or adaptation. Their prior institutions, intellectual traditions, political claims, and capacity to refuse remain real parts of the setting rather than a prelude to joining a human story. They have nevertheless experienced roughly two centuries of uneven, partly chosen technological acceleration and interstellar integration since contact.
 
 ## Selected Contact Model
 
-The selected model is a **bounded, internally plural contact with a dispersed post-contact diaspora**.
+The selected model is a **bounded, internally plural near-peer contact with a dispersed post-contact diaspora**.
 
-- Sustained contact begins about 150 BCD, roughly 110 years after FTL discovery and early in the route-era reconnection of the settlement belt.
+- Sustained contact begins about 190 BCD, roughly 70 years after FTL discovery and early in the route-era reconnection of the settlement belt. The first-contact expedition launches from an established outer-diaspora system near the belt's inner edge, rather than directly from the true core.
+- The first-contact expedition encounters a civilisation already capable of interstellar science, spaceflight, and limited slow extrasolar settlement. The encounter is therefore reciprocal in knowledge and diplomacy even though human FTL networks create a large mobility and industrial asymmetry.
 - Contact initially reaches a limited region, polity, or set of societies rather than immediately encompassing an entire species or world.
 - The contacted civilisation contains multiple institutions and positions: some groups seek trade, education, technical partnership, migration, or security ties; others demand slow contact, protected autonomy, or refusal. No external power may treat one intermediary as the uncomplicated voice of a whole species.
 - Early technological asymmetry creates leverage even without territorial conquest. Translation, quarantine, access to orbit, infrastructure, property law, and control of the terms of exchange are political acts.
@@ -36,7 +39,7 @@ The coalition may be human-led because of older capital and network power while 
 
 ### Knowledge and historical self-understanding
 
-Independent technological history challenges any complacent account in which human expansion, modification, or uplift explains all sapient civilisation. It should alter xenology, education, religion or philosophy in some communities, and the prestige politics of science. It may also expose how often human institutions mistook contact with their own descendants for a universal account of intelligence.
+Independent technological history challenges any complacent account in which human expansion, modification, or uplift explains all sapient civilisation. The first fully contacted near-peer should alter xenology, education, religion or philosophy in some communities, and the prestige politics of science. It may also expose how often human institutions mistook contact with their own descendants for a universal account of intelligence.
 
 ### Technology transfer and cultural change
 
@@ -48,7 +51,7 @@ The pilot vessel can be an earnest response to a demonstrated problem: existing 
 
 ## Selected Decisions and Remaining Detail
 
-1. **First-contact date — selected.** About 150 BCD. It allows living institutional memory, several generations of change, and enough time for the vessel programme to become plausible without treating its problems as solved.
+1. **First-contact date — selected.** About 190 BCD. It allows living institutional memory, several generations of change, and enough time for the vessel programme to become plausible without treating its problems as solved.
 
 2. **Contact scale — selected.** Initial contact reaches a bounded region and several internally distinct societies, not an instant species-wide treaty. This protects internal political diversity and creates credible disagreement about representation.
 
@@ -58,7 +61,7 @@ The pilot vessel can be an earnest response to a demonstrated problem: existing 
 
 5. **Coalition relationship — selected.** Significant participation occurs through independently organised polities or institutions, with concrete protections against mere advisory inclusion. The exact rights, representation, and enforcement mechanisms remain political-topology work.
 
-6. **Relation to uplift — selected.** The civilisation's people may choose adaptation, education, or technical transfer after contact, but the civilisation is not retrospectively classified as an uplift project.
+6. **Relation to uplift — selected.** The civilisation's people may choose adaptation, education, or technical transfer after contact, but the civilisation is not retrospectively classified as an uplift project. Its primary post-contact history is technological acceleration and integration, not the creation of intelligence or civilisation by humans.
 
 ## Open Dependencies
 

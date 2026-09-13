@@ -104,8 +104,8 @@ Define:
 
 Develop these in response to specific narrative needs rather than as an encyclopaedia of a galaxy.
 
-- Treat the twelve-millennia, BCD-dated historical spine in [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]] as the current working constraint. Do not reopen its broad sequence while developing later layers unless a new physical, demographic, or narrative dependency actually contradicts it.
-- Keep uplift and independent technological contact distinct: uplift concerns intervention, adaptation, and the social conditions of participation; independent-contact peoples possess their own prior technological histories and political agency. Develop consent, dependency, representation, demographic distribution, and control of contact pace before assigning either group a setting-wide role.
+- Treat the approved eight-thousand-year, BCD-dated historical spine and named settlement regions in [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]] as constraints. Do not reopen their broad sequence or scales while developing later layers unless a selected FTL mechanism or direct narrative need contradicts them.
+- Keep uplift and independent technological contact distinct: uplift concerns intervention, adaptation, and the social conditions of participation; the sole fully contacted independently spacefaring near-peer possesses its own prior technological history and political agency. Apply the selected consent, dependency, representation, demographic-distribution, and contact-tempo constraints when assigning either history a setting-wide role.
 - Use regional distributions, institutions, migration, ecology, and historical contingencies to explain species composition. Neither a species nor an uplift origin determines a uniform culture, political position, or relationship to the coalition.
 - Design species from evolutionary and environmental realities, then trace their practical effects without turning biology into destiny.
 - Let cultures arise from material conditions, shared histories, institutions, and contact—not from species archetypes.

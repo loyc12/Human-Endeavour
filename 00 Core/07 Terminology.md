@@ -28,9 +28,9 @@ The technological, biological, educational, and social process through which a n
 
 ## Independent Technological History
 
-A species or civilisation whose technological development did not originate in human intervention. Exactly one independently technological alien civilisation is currently known in the Milky Way. It was proto-industrial before contact about 150 BCD, and has since undergone uneven, partly chosen technological, educational, medical, and interstellar uplift.
+A species or civilisation whose technological development did not originate in human intervention. One independently spacefaring alien civilisation has been met in sustained contact and remains the only fully encountered near-peer of human space. Before contact about 190 BCD, it was an advanced system civilisation: originating on a gas-giant moon, it maintained mature orbital and in-system industry, had a long spacefaring history, and possessed a few tiny, slow interstellar footholds.
 
-Its independent technological history remains distinct from later uplift: external contact did not create its prior institutions, knowledge, political claims, or capacity to refuse. Do not retrospectively classify the civilisation itself as an uplift project.
+Its independent technological history remains distinct from later technological acceleration, integration, and any chosen uplift: external contact did not create its prior institutions, knowledge, political claims, or capacity to refuse. Do not retrospectively classify the civilisation itself as an uplift project. Very recent remote frontier detections may indicate other independent technological societies, but none has yet entered sustained reciprocal contact or altered this civilisation's singular near-peer status.
 
 ## Interspecies Vessel
 

@@ -12,14 +12,14 @@ This page preserves compatible fragments from older HSC notes. Names, dates, org
 ## Historical Spine Candidates
 
 - The approved historical baseline is an approximately eight-thousand-year setting, a 0.05c sublight diaspora, FTL discovery at 260 BCD, and a mature reconnection era only about a century old. It is owned by [[02 World/01 History/00 Broad Historical Timeline|Broad Historical Timeline]] and [[99 Workshop/06 Space Travel Scaling Model|Space Travel Scaling Model]].
-- Most known sapient peoples remain historically entangled with human expansion, modification, or uplift. Exactly one independently technological alien civilisation was contacted about 150 BCD; its post-contact technological and civilisational uplift, continuing polities, and dispersed diaspora change xenological thought and encourage the multispecies vessel project.
+- Most known sapient peoples remain historically entangled with human expansion, modification, or uplift. The first and so far only fully contacted independently spacefaring near-peer was encountered about 190 BCD; its pre-contact system civilisation, continuing polities, and dispersed diaspora change xenological thought and encourage the multispecies vessel project. Rarer non-spacefaring independent societies and recent remote frontier detections do not yet have comparable cultural or institutional presence.
 - The political centre is decentralised in many local matters but has stronger coordinating roles in security, science, and major economic infrastructure.
 - Remote polities may have negotiated autonomy, dominion, or federation arrangements rather than being governed uniformly from a central core.
 
 ### Remaining Historical Questions
 
 - Was FTL invented by a particular human-derived polity, discovered jointly, or developed through a breakthrough with consequences for power and legitimacy?
-- How do the sole independent civilisation's own polities retain agency, including during post-contact uplift and diaspora formation?
+- How do the sole fully contacted near-peer's own polities retain agency, including during post-contact integration and diaspora formation?
 
 ## Ship Seeds
 
