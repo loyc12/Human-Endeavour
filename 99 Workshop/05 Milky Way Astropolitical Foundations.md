@@ -49,11 +49,15 @@ The full selected chronology, its caveats, and the remaining decision points aro
 
 ### 2. Scale of the Pre-FTL Diaspora
 
-Determine the diaspora's maximum spread, typical isolation times, the size and maturity of its independent civilisations, and the cultural, biological, and technological divergence that millennia of sublight expansion produce.
+**Selected baseline:** The pre-FTL diaspora has a characteristic reach of about 390 ly from Sol, but consists of irregular clusters, settlement chains, wide gaps, and exceptional outliers rather than a filled sphere. Information travels at `1c`; ordinary durable settlement growth averages about `0.05c`; and a limited number of exceptional early Sol-backed foundation expeditions achieve up to about `0.1c`. Sol and its 0--15-ly neighbourhood are the oldest and most mutually legible region. A limited early foundation programme gives rise to roughly four to seven major legacy civilisation-complexes, chiefly in the 80--220-ly legacy belt, then to a few dozen smaller clusters and a long tail of systems that are locally autonomous or effectively isolated. The outer 320--390-ly fringe is deliberately mixed: a few ancient foundation outliers coexist with younger, stalled, abandoned, and system-scale settlements. Divergence is chiefly institutional, cultural, ecological, and technical; biological adaptation is meaningful but does not determine culture.
+
+The selected settlement genealogy, timescale check, and pre-FTL information economy are in [[02 World/01 History/04 Pre-FTL Diaspora Geography|Pre-FTL Diaspora Geography]]. The detailed pattern of dense clusters, gaps, and route connectivity is in [[02 World/01 History/05 Settlement Topology and Connectivity|Settlement Topology and Connectivity]].
 
 ### 3. Spatial Continuity of Settlement
 
-Determine whether settlement is relatively continuous, composed of isolated islands, concentrated in dense regional clusters, separated by large empty gaps, or a mixed pattern. This should distinguish mapped space from practical travel and communications connectivity.
+**Selected baseline:** Human-touched space is a nested archipelago of dense civilisational clusters and high-value corridors: a root- or fungal-web pattern rather than a filled sphere. Major old worlds are linked both to the core and to one another, with intermediate systems, habitats, and midway service settlements growing along valuable routes. The true core has the deepest, most redundant multi-directional connectivity; mature regional centres form local meshes; the frontier remains branch-like or isolated. Distinguish **mapped**, **reachable**, **settled / reached**, and **integrated** systems, and separately distinguish lightly from heavily settled places. Gaps arise chiefly from limited present interest, investment, and locally sparse or less desirable astrography—not from assumed FTL-specific barriers. Given sufficient time, reachable systems are expected to be developed, but many remain currently sparse or minimally inhabited. Rare directed corridor megaprojects can bypass the organic pattern; the eventual direct core-to-near-peer route is one such project.
+
+The detailed topology vocabulary and its consequences are in [[02 World/01 History/05 Settlement Topology and Connectivity|Settlement Topology and Connectivity]]. Exact travel, communications, and route-capacity behaviour remains conditional on the FTL model.
 
 ### 4. Transformative Effect of FTL
 

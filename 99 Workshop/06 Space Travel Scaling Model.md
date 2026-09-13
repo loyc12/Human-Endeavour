@@ -151,7 +151,7 @@ With an 8,000-year history, 260 years of FTL, and a 0.05c pre-FTL average fronti
 
 | Quantity | Selected result | Interpretation |
 | --- | ---: | --- |
-| Pre-FTL diaspora reach | ~390 ly | Old, uneven human-descended and post-human space. |
+| Pre-FTL diaspora reach | ~390 ly | A characteristic outer extent of old, uneven human-descended and post-human space; rare faster foundation missions and sparse outliers do not imply a filled or uniformly mature sphere. |
 | Active maintained-route extent | ~820 ly | Irregular core-centred networks with reliable support, not a circle of equal access. |
 | Durable settlement extent | ~790 ly | Characteristic serviceable settlement frontier; rare outliers do not redefine normal civilisation. |
 | Selected exploration corridors | ~1,230 ly | Surveyed spokes and contact zones, not a filled or uniformly known volume. |
@@ -325,5 +325,5 @@ The selected balanced model uses a long 0.05c sublight era; FTL discovery with a
 - A route can be fast for people but slow for bulk mass, dangerous goods, large habitats, or emergency repair.
 - Exploration can outrun settlement; settlement can outrun political integration; communication can differ from both.
 - Route infrastructure creates hubs, dependencies, chokepoints, maintenance occupations, unequal access, and reasons the true core remains important even when travel is rapid.
-- A settlement map should show dense clusters, maintained corridors, sparse projects, and imperfectly surveyed directions—not only distance rings.
+- A settlement map should show dense clusters, maintained corridors, midway settlements, sparse projects, and imperfectly surveyed directions—not only distance rings. See [[02 World/01 History/05 Settlement Topology and Connectivity|Settlement Topology and Connectivity]] for the selected non-mechanical topology.
 - Select exact values only after choosing the FTL technology's range, navigation, energy, cooldown, and failure logic. Then test the result against the crew's expectations and the multi-century Andromeda return problem.
