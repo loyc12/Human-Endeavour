@@ -23,6 +23,7 @@ Define the recurring pressures that make interstellar life and the return proble
 Focus on:
 
 - FTL travel and navigation
+- The distinction between an exceptionally difficult FTL breakthrough and the later infrastructure, knowledge, and institutions needed to use it routinely. FTL took roughly eight thousand years to attain in the human historical path and may have depended on a contingent breakthrough; it is not an inevitable destination for every spacefaring civilisation.
 - Relativistic, causal, and communications limits
 - Energy, heat, mass, and reaction-mass economics where relevant
 - Sensors, stealth, and information limits

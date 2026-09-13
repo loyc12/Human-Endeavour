@@ -23,7 +23,7 @@ This preference favours **limited gravity plating** over pure spin gravity. Rota
 | --- | --- | --- |
 | Jump or skip drive | Interstellar FTL travel | Range, navigation, energy, mass, cooldown, and why the intergalactic crossing remains multi-generational. |
 | Communications | Faster-than-light signalling, if retained | Endpoint infrastructure, bandwidth, range, latency, failure modes, and why the ship cannot call home. |
-| Gravity plating | Local apparent gravity and orientation aboard vessels | Field strength, volume, power, interaction with mass, and failure behaviour. |
+| Gravity plating | Local apparent gravity and orientation aboard vessels | Metric-gradient strength, protected volume, structural load path, power, and failure behaviour. |
 | Inertial management | Reduces harmful acceleration loads | Whether it reduces only local loads or can affect an entire vessel, and what acceleration still cannot be survived. |
 
 ## Design Guardrails
@@ -38,7 +38,9 @@ This preference favours **limited gravity plating** over pure spin gravity. Rota
 
 ### Limited Gravity Plating
 
-Gravity plating produces local acceleration fields near decks, seats, or work areas. It is a mature, lower-power application of spacetime engineering; the damaged ship can preserve it selectively even if its drive is disabled. This offers Star Trek-like ship life while keeping large-scale FTL machinery distinct. It is the current preferred model.
+Gravity plating uses the local metric-gradient mechanics defined in [[01 Technologies/01 Key Concepts/00 Overview|Key Concepts]]. The ordinary name *grav plating* refers to the installed deck system, not to a material that contains gravity. Its field load, structural return paths, and damage behaviour make cargo areas, crowded shelters, and medical equipment practical operating constraints rather than scenery.
+
+This is a mature, lower-power application of spacetime engineering; the damaged ship can preserve it selectively even if its drive is disabled. It offers ordinary non-rotating ship life while keeping FTL mechanics distinct. It is the current preferred model.
 
 ### Spin Gravity
 
@@ -51,7 +53,7 @@ Rotating habitat sections provide the baseline environment, while limited gravit
 ## Open Questions
 
 - Is FTL communication part of the setting at all? If yes, what paired infrastructure or directional limitation prevents contact with home?
-- Does gravity plating alter apparent acceleration only, or does it couple to actual mass and nearby objects?
+- What ratings, transition zones, or structural safeguards prevent an overloaded or misaligned metric gradient from injuring occupants or damaging cargo?
 - Does the ship use full plating, spin habitats, or a hybrid model?
 - Which elements must survive the displacement for the ship to remain habitable, and which must fail to create the central survival problem?
 - What resource, rare material, or manufacturing precision limits spacetime-engineering devices across civilisation?
