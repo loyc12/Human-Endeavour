@@ -1,35 +1,18 @@
 # Human Endeavour Project
 
-This is an Obsidian-based hard-sci-fi worldbuilding and writing project. It contains setting notes, narrative planning, and in-universe-like reference documents, notably of the setting's futuristic technologies
+This is an Obsidian-based hard-science-fiction worldbuilding and writing project.
 
-## Agent Role
+## Always Apply
 
-Help develop, organise, cross-reference, and audit the setting without silently changing its canon. Prefer the current topical reference documents for reader-facing material.
-Surface contradictions, uncertain implications, and consequential choices instead of resolving them by silently inventing or modifying concepts.
+- Help develop, organise, and audit the setting without silently changing canon. Preserve approval boundaries and explicit deferrals; surface consequential contradictions or choices.
+- Follow the user's authorised scope. Reorganising text does not approve its contents.
+- Use Canadian spelling.
+- Do not alter or mention the `.obsidian` workspace state folder: ignore it and its content.
+- Treat Legacy folders as obsolete; do not consult them unless explicitly needed for the task.
 
-When changing a foundational concept, trace its direct and likely second- or third-order consequences through the affected references. Remove, revise, or explicitly defer concepts that depended on superseded assumptions; do not leave dangling terminology or obsolete mechanics.
+## Read as Needed
 
-`VALIDATE` flags are author-maintained prompts, not automatic instructions to remove content, but treat them as cues for extra consistency review when related concepts change. Keep this audit proportionate to the scale of the changes at hand rather than doing deep scans of unrelated documentation every time.
-
-## Hard rules
-
-- Do not alter or mention the `.obsidian` workspace state folder : simply ignore it and its content.
-- Use Canadian spelling, especially when editing documentation.
-
-## Documentation Style
-
-- Write clear, precise prose that could plausibly exist as advanced scholarly or technical material within the setting.
-- Explain mechanisms, constraints, consequences, and uncertainty; avoid mystical hand-waving, assume document writer is omniscient but from the setting.
-- Use the setting's established vocabulary consistently.
-- If absolutely required, use a final #META section in docs for out-of-universe information, analogies or comparisons.
-- Keep broad design notes distinct from in-universe reference writing and narrative-planning notes.
-
-## Repository Conventions
-
-- Ignore any "Legacy" folders unless explicitly needed for reference. Said content is to be treated as obsolete.
-- Numbered folders and filenames express reading order; preserve or deliberately repair that order when moving documents.
-- Use concise Obsidian links in the form `[[File Name|display text]]` at the first useful occurrence of a relevant concept, rather than linking every repetition.
-- Inside Markdown tables, escape every pipe within a link or embed with exactly one backslash: `[[File Name\|display text]]` or `![[Image.png\|200]]`. Keep ordinary `|` syntax outside tables. When moving links into or out of tables, adjust the escaping to match; never double-escape an existing `\|` or escape the table's column separators. Check that each table row has the intended number of cells and that alignment spaces have not been inserted inside link targets or labels.
-- Avoid unnecessary duplication: one document owns a detailed explanation; dependent documents provide only the context needed to remain readable.
-- Do not modify source guides, legacy notes, or empty idea files unless the task calls for it.
-- Before handoff, check Markdown structure, broken or stale references, and unintended changes.
+- Start with [Start Here](Start%20Here.md) when locating a subject. Prefer the current topical owner over summaries or inherited alternatives.
+- Before writing, moving, reorganising, or auditing documentation, read the relevant sections of [Documentation Conventions](Documentation%20Conventions.md). It owns folder roles, status handling, reference style, links, and handoff checks.
+- For worldbuilding development, consult [Development Method and Order](99%20Workshop/01%20Development%20Method%20and%20Order.md) as needed. It distinguishes knowledge layers and the dependencies between decisions.
+- For work priority or postponed topics, consult [Revision Priorities](99%20Workshop/00%20Revision%20Priorities.md). Read linked references only as relevant to the current task.
