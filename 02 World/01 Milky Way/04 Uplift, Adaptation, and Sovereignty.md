@@ -4,18 +4,19 @@
 
 **Status: Selected baseline**
 
-**Scope: High-level history and social constraints selected; detailed distribution remains open.**
+**Scope: High-level history and social constraints selected - detailed distribution remains open**
 
 ## Scope
 
-This is a history-and-consequences inquiry, not a claim that every non-human person shares a common origin or politics. The author-facing term [[00 Core/04 Terminology|uplift]] covers technological, biological, educational, and social processes that enable participation in interstellar civilisation. It should never imply that a sponsor grants a person's moral worth or political standing.
+This is a history-and-consequences inquiry, not a claim that every non-human person shares common origins or politics. The author-facing term [[00 Core/04 Terminology|uplift]] covers technological, biological, educational, and social processes that enable participation in interstellar civilisation. It should never imply that a sponsor grants a person's moral worth or political standing.
 
 ## Working Historical Reading
 
-The selected timeline is not one galaxy-wide "uplift event." Some precursor interventions, engineered non-human populations, and highly modified human-descended lineages predate FTL and have their own long, local histories. Reconnection makes biological techniques, educational capacity, mobility, legal arguments, and sponsor institutions available across much more of human-touched space. The independently spacefaring civilisation contacted about 190 BCD undergoes post-contact technological acceleration and interstellar integration; its people may choose later uplift without being reduced to an uplift-created civilisation.
+The selected timeline is not one galaxy-wide "uplift event." Most precursor interventions, engineered non-human populations, and highly modified human-descended lineages predate FTL and have their own long, local histories. Reconnection made biological techniques, educational capacity, mobility, legal arguments, and sponsor institutions available across much more of human-touched space.
 
 This permits uplifted peoples to be historically established rather than newly made, while keeping its large-scale politics current. A present-day adult may descend from a population altered long ago, participate in a recent voluntary adaptation programme, belong to a polity that rejected outside intervention, or have no connection to uplift at all. None of these conditions determines culture, personality, allegiance, or competence.
 
+Notably, the independently spacefaring civilisation contacted about 190 BCD underwent post-contact technological acceleration and interstellar integration, but are not themselves an uplift-created civilisation, as their civilisation meaningfully existed before contact.
 ## Ramifications to Preserve
 
 ### Personhood and consent
@@ -36,7 +37,7 @@ Some of the most politically meaningful disputes may concern who controls contin
 
 ### Culture, ecology, and kinship
 
-Biological intervention can change communication, labour, diet, sensory life, mobility, lifespan, reproduction, and the practical meaning of home. It also leaves ecological and kinship questions: relations with non-uplifted members of the originating species, obligations to a home ecosystem, and the danger that outsiders treat an adapted population as proof that an entire species is available for redesign. These pressures generate diverse cultures and politics; they do not reduce anyone to biological destiny.
+Biological intervention can change communication, labour, diet, sensory life, mobility, lifespan, reproduction, and the practical meaning of home. It also leaves ecological and kinship questions: relations with non-uplifted members of the originating species, obligations to a home ecosystem, and the danger that outsiders treat an adapted population as proof that an entire species is available for redesign. These pressures generate diverse cultures and politics, but do not reduce anyone to some biological predestination.
 
 ### Ordinary interspecies life
 
@@ -48,7 +49,7 @@ The resulting diversity makes the vessel programme materially and politically cr
 - No one-time sponsor decision settles consent forever. Continuing support, later generations, community deliberation, and refusal rights remain live political questions.
 - Uplifted characters have specific professions, relationships, and political histories. Origin can shape practical experience without substituting for individual or cultural characterisation.
 
-The multiple local histories and meaningful but uneven demographic distribution described above are selected constraints; exact population shares and detailed institutions remain open.
+The multiple local histories and meaningful but uneven demographic distribution described above are selected constraints, but exact population shares and detailed institutions remain open.
 
 ## Dependencies
 

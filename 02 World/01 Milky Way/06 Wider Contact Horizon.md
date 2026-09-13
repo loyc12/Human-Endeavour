@@ -4,7 +4,7 @@
 
 **Status: Approved baseline**
 
-**Scope: Specific societies open.**
+**Scope: Specific societies open**
 
 ## Purpose
 
@@ -14,7 +14,7 @@ This document distinguishes the first fully contacted independently spacefaring 
 
 ### The fully contacted near-peer
 
-The [[02 World/01 Milky Way/05 Independent Near-Peer Civilisation|independent near-peer civilisation]] is the only independently spacefaring civilisation met in sustained reciprocal contact. That reference owns its pre-contact capabilities, encounter, diaspora, and continuing polities. Its presence is part of ordinary Core life; the other societies and detections below do not yet have comparable cultural or institutional presence.
+The [[02 World/01 Milky Way/05 Independent Near-Peer Civilisation|independent near-peer civilisation]] is the only independently spacefaring civilisation met in sustained reciprocal contact. That reference owns its pre-contact capabilities, encounter, diaspora, and continuing polities. Its presence is part of ordinary Core life, since the other societies and detections below do not yet have comparable cultural or institutional presence.
 
 ### Other independent societies
 
@@ -28,7 +28,7 @@ In the last few decades, remote frontier surveys have produced evidence or very 
 
 ## Consequences
 
-- The first near-peer encounter becomes a historical shock, a major subject of xenology, and a continuing source of institutional reform rather than merely another species profile.
+- The first near-peer encounter becomes a historical shock, a major subject of xenology, and a continuing pressure towards institutional reform rather than merely another species profile.
 - The existence of other, more remote candidate societies prevents this shock from becoming a permanent claim that the near-peer is cosmically unique.
 - Frontier contact policy must contend with unequal knowledge, quarantine, ecological disruption, trade pressure, and the risk that apparently benevolent assistance becomes coercive dependency.
 - The crew can plausibly treat one independent near-peer's presence as ordinary while treating remote frontier reports and non-spacefaring contact as unfamiliar, contested, and politically unfinished.

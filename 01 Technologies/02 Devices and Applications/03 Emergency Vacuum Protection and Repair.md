@@ -16,7 +16,7 @@ Rapid depressurisation is a recurring shipboard hazard. Emergency equipment can 
 
 An EVSS is a compact personal survival system that applies mechanical counter-pressure to the body during a depressurisation emergency. Configurations trade convenience and mobility against coverage and survival margin. Deployable protection for the head and extremities can extend a partly worn suit into more complete emergency coverage.
 
-An EVSS is not a complete substitute for an EVA suit. It needs a compatible breathing system, eye and airway protection, and appropriate thermal management. Thin emergency protection provides little meaningful shielding from ionising radiation.
+An EVS suit is not a complete substitute for an EVA suit. It needs a compatible breathing system, eye and airway protection, and appropriate thermal management. Thin emergency protection also provides little meaningful shielding from ionising radiation.
 
 ### Respiratory Interfaces
 

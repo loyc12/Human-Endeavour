@@ -12,7 +12,7 @@
 
 System-scale beam arrays are fixed installations that direct laser, microwave, or particle beams toward a departing or passing craft. They can provide propulsion, electrical power, sensing, and navigation support along a deliberately maintained route. They are a plausible precursor to the economic and institutional logic of later high-value corridors: not FTL, but a way to make particular paths faster, safer, more predictable, and economically important.
 
-Their operating theory may be mature early in the history of space expansion while their practical deployment remains expensive. The limiting problem is not discovering that directed energy can transfer momentum or power; it is building and operating arrays large, precise, energy-rich, and coordinated enough to matter over interstellar distances.
+Their operating theory may be mature early in the history of space expansion while their practical deployment remains expensive. The limiting problem is not discovering that directed energy can transfer momentum or power, but building and operating arrays large, precise, energy-rich, and coordinated enough to matter over interstellar distances.
 
 ## Basic Model
 
@@ -22,13 +22,13 @@ Beam arrays do not erase distance. They are fixed, directional, capital-intensiv
 
 ## Coexistence with FTL Corridors
 
-Beam corridors remain useful after FTL becomes available. FTL service is the preferred option for people, urgent cargo, complex vessels, and high-value traffic where its specialised onboard equipment and route access are justified. Beam arrays instead retain several durable niches:
+Beam corridors still remain useful even once FTL becomes readily available. FTL service is the preferred option for people, urgent cargo, complex vessels, and high-value traffic where its specialised onboard equipment and route access are justified. Beam arrays instead retain several durable niches:
 
 - **Intra-system transport:** moving ore, water, shield mass, construction material, and slow freight between mines, habitats, depots, and industrial orbits without expending onboard reaction mass.
-- **Slow interstellar resource lanes:** launching robust, uncrewed **resource packets** along paired or staged beam routes. These packets carry low-value-per-kilogram bulk cargo over long schedules and need no onboard FTL installation.
+- **Slow interstellar resource lanes:** launching robust, uncrewed **resource packets** along paired or staged beam routes. These packets carry low-value-per-kilogram bulk cargo over decade- to century-long schedules and need no onboard FTL installation.
 - **Power and momentum services:** supporting sails, tugs, probes, and local industry where a full FTL voyage would be excessive or uneconomical.
 
-The result is a layered corridor economy rather than technological replacement. An FTL corridor may carry travellers, specialised parts, information couriers, and emergency response, while a parallel beam lane carries slow bulk flows between the same or neighbouring systems. A beam lane's cheap payload hardware and fixed infrastructure trade against long transit time, rigid scheduling, limited manoeuvrability, and the need for safe acceleration and braking terminals.
+The result is a layered corridor economy rather than complete technological replacement. An FTL corridor may carry travellers, specialised parts, information couriers, and emergency response, while a parallel beam lane carries slow bulk flows between the same or neighbouring systems. A beam lane's cheap payload hardware and fixed infrastructure trade against long transit time, rigid scheduling, limited manoeuvrability, and the need for safe acceleration and braking terminals.
 
 ## Historical and Spatial Consequences
 
@@ -51,5 +51,4 @@ The result is a layered corridor economy rather than technological replacement. 
 - Are the earliest interstellar beam arrays Sol projects, first-order colony projects, or both?
 - How often can a route afford paired acceleration and braking arrays rather than a one-way launch service?
 - Can a system act as a beam relay, and what industrial or legal commitments does that impose on its inhabitants?
-- What distinguishes an ordinary commercial array from the rare direct core-to-near-peer megaproject?
 - Which beams are visible or detectable over interstellar distances, and how does that shape diplomacy, safety, or security?

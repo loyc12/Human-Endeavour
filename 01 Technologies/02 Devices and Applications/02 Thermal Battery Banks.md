@@ -14,7 +14,7 @@ This document owns the operational concept of shipboard thermal storage. Broader
 
 ## Current Foundation
 
-Thermal battery banks temporarily absorb and store waste heat when a vessel cannot reject it fast enough through its heat-dump or radiator systems. They delay an overheating crisis; they do not remove heat from the vessel's long-term energy balance.
+Thermal battery banks temporarily absorb and store waste heat when a vessel cannot reject it fast enough through its heat-dump or radiator systems. They delay an overheating crisis, but do not remove heat from the vessel's long-term energy balance.
 
 Their displayed percentage should refer to the fraction of safe heat-storage capacity already occupied. A rising percentage therefore indicates diminishing margin. A damaged vessel may need to reduce power demand, isolate and use non-critical spaces as temporary heat sinks, repair its heat-rejection systems, or eject overloaded banks.
 

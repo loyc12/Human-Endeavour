@@ -65,11 +65,13 @@ Keep detailed open questions with their topic. [[99 Workshop/00 Revision Priorit
 
 ## Writing and Knowledge Layers
 
-Use Canadian spelling and established setting vocabulary. Reference prose should be clear, precise, and plausible as advanced scholarly or technical writing within the setting. Explain mechanisms, operating constraints, consequences, and uncertainty; avoid mystical hand-waving.
+Use Canadian spelling and established setting vocabulary. Reference prose should be clear, precise, and conscise . Explain mechanisms, operating constraints, consequences, and uncertainty, while avoiding mystical hand-waving.
 
 The reference writer may use an omniscient view of the setting. That does not make the complete authorial model common knowledge among characters. Distinguish objective reality, institutional knowledge, common practice, common belief, and narrative revelation using [[99 Workshop/01 Development Method and Order|Development Method and Order]].
 
 Keep authorial design, calculations, and narrative planning distinct from in-setting exposition. Mark a document's purpose explicitly when it is an author-facing tool. In an otherwise in-setting reference, put necessary external analogies, comparisons, or design commentary in a final `#META` section rather than presenting them as diegetic fact.
+
+Avoid usage of semicolons and em-dash whenever possible, and opt instead for commas, periods, and "joining words" ( "while", "but", "and", etc ) based on suitability. Avoid statement like "this is not only X, but also Y" and "This is A, and therefore not B", unless they add meaningfuly novel information or context to the statement. If a sentence can be trimmed out without losing useful information, try to do so.
 
 ## Links and Markdown
 

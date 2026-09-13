@@ -55,7 +55,7 @@ A conventional technology may still be a **signature implementation**. [[01 Tech
 
 ## Extrapolative Engineering
 
-These technologies extend known physics and engineering. They may demand very advanced materials, automation, capital, or timescales, but do not require a new physical principle. They are the default palette for ordinary and regional technological differences.
+These technologies extend known physics and engineering. They may demand very advanced materials, automation, capital, or timescales, but do not require new physical principles. They are the default palette for ordinary and regional technological differences.
 
 ### Habitation, gravity, and survival
 
@@ -73,7 +73,7 @@ These technologies extend known physics and engineering. They may demand very ad
 - Laser communications, physical data couriers, authenticated archives, probes, and distributed sensor systems.
 - [[01 Technologies/01 Key Concepts/04 System-Scale Beam Arrays|System-scale beam arrays]], an active setting direction for intra-system transport, slow interstellar resource packets without onboard FTL equipment, and fixed-route propulsion or power transfer.
 
-### Surface-to-orbit access
+#### Surface-to-orbit access
 
 Space elevators are mature but selective extrapolative infrastructure. In practice, they are concentrated on **low-gravity worlds with thin or negligible atmospheres**, where tether strength, anchor loads, weather, atmospheric drag, and debris risk are favourable. Such an elevator can make a particular settlement or industrial region a consequential logistics node, but it is not the default route to orbit.
 
@@ -81,7 +81,7 @@ On most substantial atmosphered or high-gravity worlds, **skyhooks, rotovators, 
 
 ### Industry, energy, and material systems
 
-- Asteroid and comet mining; in-situ resource use; vacuum metallurgy; additive manufacture; conventional machine shops; and biomanufacturing.
+- Asteroid and comet mining, in-situ resource use, vacuum metallurgy, additive manufacture, conventional machine shops, and biomanufacturing.
 - Solar collector swarms, fission, fusion, beamed power, thermal storage, heat-transfer loops, and radiator fields.
 - Autonomous maintenance, mining, and inspection systems whose capability remains bounded by feedstocks, spares, calibration, energy, and supervision.
 
@@ -108,33 +108,33 @@ Gravity plating is not a reason to omit rotational gravity. Rotation is an extra
 
 These are fully realised extrapolative-engineering projects, but only around exceptionally old, prosperous, capable systems. They are not standard infrastructure and remain politically, economically, and culturally defining.
 
-| Technology | Setting status and constraint |
-| --- | --- |
-| **Orbital rings** | Present around a small number of very old and wealthy worlds. Their active support, traffic management, repair burden, power demand, and large exclusion zones make them system-scale institutions rather than passive monuments. |
-| **Partial Dyson swarms** | Present in selected mature core systems as decentralised clouds of solar collectors, industry, habitats, and heat-rejection infrastructure. They grow incrementally and naturally over long periods; they are not rigid shells, complete stellar enclosures, or automatic post-scarcity machines. |
+| Technology               | Setting status and constraint                                                                                                                                                                                                                                                                                     |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Orbital rings**        | Present around a small number of very old and wealthy worlds, including Gaia itself. Their active support, traffic management, repair burden, power demand, and large exclusion zones make them system-scale institutions rather than passive monuments.                                                          |
+| **Partial Dyson swarms** | Present in selected mature core systems as decentralised clouds of solar collectors, industry, habitats, and heat-rejection infrastructure. They grow incrementally and naturally over long periods. Understandably, they are not rigid shells, complete stellar enclosures, or automatic post-scarcity machines. |
 
 ## Physically Plausible but Unproven or Uneconomical Technologies
 
-These concepts obey, or plausibly might obey, known physics, but the setting has not solved their practical scaling, cost, safety, or institutional-control problems. They may be studied, prototyped, or used in narrow exceptional cases; they are not routine capabilities or automatic solutions.
+These concepts obey, or plausibly might obey, known physics, but the setting has not solved their practical scaling, cost, safety, or institutional-control problems. They may be studied, prototyped, or used in narrow exceptional cases, but are not routine capabilities or automatic solutions.
 
-| Candidate | Default in-universe status |
-| --- | --- |
-| Antimatter bulk fuel economy | Real physics, but production, containment, conversion efficiency, and cost keep it non-routine. |
-| Black-hole drives or power plants | Plausible in principle but beyond ordinary industrial capability; theoretical or exceptional research. |
-| Mature self-replicating industry / unrestricted von Neumann probes | Technically and politically unresolved; not a general civilisational assumption. |
-| Reliable long-duration cryonics or full suspended animation | Possible research direction, not a default answer to interstellar time. |
-| Molecular nanotechnology, utility fog, or universally capable smart matter | Plausible aspiration; do not use as frictionless fabrication. |
-| Starlifting, stellar engines, or topopolis-scale habitats | Potentially physically possible but unproven at the required scale; not established infrastructure. |
+| Candidate                                                                  | Default in-universe status                                                                                                             |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Antimatter bulk fuel economy                                               | Real physics, but production, containment, conversion efficiency, and cost keep it non-routine.                                        |
+| Black-hole drives or power plants                                          | Plausible in principle but beyond ordinary industrial capability. Theoretical or exceptional research only.                            |
+| Mature self-replicating industry / unrestricted von Neumann probes         | Technically and politically unresolved. Not a general civilisational assumption.                                                       |
+| Reliable long-duration cryonics or full suspended animation                | Possible research direction, not a default answer to interstellar time. May later be adopted into the setting more heavily if desired. |
+| Molecular nanotechnology, utility fog, or universally capable smart matter | Plausible aspiration. Do not use it as frictionless fabrication.                                                                       |
+| Starlifting, stellar engines, or topopolis-scale habitats                  | Potentially physically possible but unproven at the required scale. Not established infrastructure.                                    |
 
 ## Theoretical-Only Technologies
 
 These capabilities either require unsupported physical principles or exceed the selected setting-specific spacetime-engineering envelope. They may appear in in-universe theory, speculation, or distant research, but have no demonstrated practical deployment unless deliberately adopted later.
 
-| Candidate | Default in-universe status |
-| --- | --- |
-| Wormholes, gates, teleportation, reactionless drives, negative mass, or broad anti-gravity | Unsupported or outside the selected engineering envelope. |
-| Routine mind uploading, emulation, or practical digital immortality | Unresolved both scientifically and in personhood terms; not assumed. |
-| Unrestricted spacetime manipulation | Not implied by gravity plating or FTL travel; outside the bounded family unless explicitly selected. |
+| Candidate                                                                                  | Default in-universe status                                                                           |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Wormholes, gates, teleportation, reactionless drives, negative mass, or broad anti-gravity | Unsupported or outside the selected engineering envelope.                                            |
+| Routine mind uploading, emulation, or practical digital immortality                        | Unresolved both scientifically and in personhood terms.                                              |
+| Unrestricted spacetime manipulation                                                        | Not implied by gravity plating or FTL travel. Outside the bounded family unless explicitly selected. |
 
 ## Catalogue Discipline
 

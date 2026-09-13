@@ -14,14 +14,14 @@ These candidates come from older HSC character notes and the storyboard material
 
 The useful unit here is a character's pressures, coping strategy, surface impression, desire, and growth—not a diagnosis treated as a personality type. If neurodivergence, disability, addiction, or mental illness is retained, develop it with lived specificity and do not make recovery equivalent to becoming more conventionally useful.
 
-| Working name | Potential strengths and role | Dramatic pattern to retain | Continuity questions |
-| --- | --- | --- | --- |
-| Treyvir | Physics, mathematics, cartography; earlier draft instead makes him a systems engineer | Overprepares after past disappointment; must accept uncertainty and fallibility | Is this the existing Treyvir, and which profession best places him in the lower-deck group? |
-| Kamiranne / Tamyranne | Pilot, military expert, chef; later draft makes her a xenolinguist | Pushes people away to avoid rejection; needs belonging | One person with revised role, or two characters? Which spelling survives? |
-| Aeva / Aefhalr'ilh | Linguist, sociologist, novelist | Self-suppression and fear of being improper; needs confidence in their difference | Are they related to or distinct from Ava'an and the Avl'arh'ilh/Évbé'iL names in later drafts? |
-| Byeru'lh | Electromechanical engineer and pianist | Emotional avoidance presented as strict rationality | What species, social context, and relationship ties make this more than a familiar archetype? |
-| Sarkh | Biologist, physician, modeller | Uses substances to escape pressure and responsibility | What support, accountability, and harm boundaries make this portrayal humane? |
-| Datayma | Strategist, logician, philosopher | Wants to reform a broken system through grand action; must learn pacing and coalition-building | Are they command, civilian politics, or an external Andromedan figure? |
+| Working name          | Potential strengths and role                                                          | Dramatic pattern to retain                                                                     | Continuity questions                                                                           |
+| --------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Treyvir               | Physics, mathematics, cartography; earlier draft instead makes him a systems engineer | Overprepares after past disappointment; must accept uncertainty and fallibility                | Is this the existing Treyvir, and which profession best places him in the lower-deck group?    |
+| Kamiranne / Tamyranne | Pilot, military expert, chef; later draft makes her a xenolinguist                    | Pushes people away to avoid rejection; needs belonging                                         | One person with revised role, or two characters? Which spelling survives?                      |
+| Aeva / Ava'an         | Linguist, sociologist, novelist                                                       | Self-suppression and fear of being improper; needs confidence in their difference              | Are they related to or distinct from Ava'an and the Avl'arh'ilh/Évbé'iL names in later drafts? |
+| Byeru'lh              | Electromechanical engineer and pianist                                                | Emotional avoidance presented as strict rationality                                            | What species, social context, and relationship ties make this more than a familiar archetype?  |
+| Sarkh                 | Biologist, physician, modeller                                                        | Uses substances to escape pressure and responsibility                                          | What support, accountability, and harm boundaries make this portrayal humane?                  |
+| Datayma               | Strategist, logician, philosopher                                                     | Wants to reform a broken system through grand action; must learn pacing and coalition-building | Are they command, civilian politics, or an external Andromedan figure?                         |
 
 ## Relationship and Care Boundary
 

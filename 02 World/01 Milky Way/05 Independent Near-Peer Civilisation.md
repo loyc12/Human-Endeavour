@@ -4,11 +4,11 @@
 
 **Status: Approved baseline**
 
-**Scope: Detailed contact history open.**
+**Scope: Detailed contact history open**
 
 ## Starting Constraint
 
-One Milky Way alien civilisation has an [[00 Core/04 Terminology|independent technological history]] and is the first, and so far only, independently spacefaring civilisation met in sustained contact. It was encountered about 190 BCD, in the early route era and within what has become the reconnection settlement belt. Its status as the only fully contacted near-peer of human space makes that encounter a major cultural and intellectual shock.
+One Milky Way alien civilisation has an [[00 Core/04 Terminology|independent technological history]] and is the first, and so far only independently spacefaring civilisation met in sustained contact. It was encountered about 190 BCD, in the early route era and within what has become the reconnection settlement belt. Its status as the only fully contacted near-peer civilisational-complex of human space made that encounter a major cultural and intellectual shock.
 
 The civilisation originates on a habitable moon of a gas giant. Its environment produces difficult radiation, orbital, launch, and communications conditions, while its local moons and accessible volatiles support sophisticated in-system industry, habitats, and navigation. Before contact, it had centuries of spacefaring history, mature system-wide settlement, long-range probes, and a few tiny, slow interstellar footholds within nearby stars. It lacked reliable FTL and remained effectively confined to its local stellar neighbourhood.
 
@@ -19,9 +19,9 @@ An independently developed people is not an uplifted people merely because later
 The selected model is a **bounded, internally plural near-peer contact with a dispersed post-contact diaspora**.
 
 - Sustained contact begins about 190 BCD, roughly 70 years after FTL discovery and early in the route-era reconnection of the settlement belt. The first-contact expedition launches from an established outer-diaspora system near the belt's inner edge, rather than directly from the true core.
-- The first-contact expedition encounters a civilisation already capable of interstellar science, spaceflight, and limited slow extrasolar settlement. The encounter is therefore reciprocal in knowledge and diplomacy even though human FTL networks create a large mobility and industrial asymmetry.
+- The first-contact expedition encounters a civilisation already capable of interstellar science, spaceflight, and limited sublight extrasolar settlement. The encounter is therefore reciprocal in knowledge and diplomacy even though human FTL networks create a large mobility and industrial asymmetry.
 - Contact initially reaches a limited region, polity, or set of societies rather than immediately encompassing an entire species or world.
-- The contacted civilisation contains multiple institutions and positions: some groups seek trade, education, technical partnership, migration, or security ties; others demand slow contact, protected autonomy, or refusal. No external power may treat one intermediary as the uncomplicated voice of a whole species.
+- The contacted civilisation contains multiple institutions and positions: some groups seek trade, education, technical partnership, migration, or security ties, while others demand slow contact, protected autonomy, or outright refuse interactions. No external power may treat one intermediary as the uncomplicated voice of a whole species.
 - Early technological asymmetry creates leverage even without territorial conquest. Translation, quarantine, access to orbit, infrastructure, property law, and control of the terms of exchange are political acts.
 - Roughly a century and a half permits a geographically dispersed diaspora, specialised interspecies institutions, and participating polities, but does not erase the demographic predominance, historical memory, or local authority of the contact region itself.
 
@@ -39,7 +39,7 @@ This also prevents the crew from standing in for an entire people. Its members c
 
 Formal recognition of sovereignty is necessary but insufficient. Agency also depends on command of local infrastructure, the ability to set contact tempo, independent interpretation and media, control of cultural material, bargaining capacity, and the practical right to say no without losing food, health, security, or access to orbit.
 
-The coalition may be human-led because of older capital and network power while still containing independent-contact polities with defined powers, vetoes, or negotiated jurisdictions. The exact constitutional form remains open; the important constraint is that participation cannot mean a human institution appoints a compliant representative and calls the question resolved.
+The coalition may be human-led because of older capital and network power while still containing independent-contact polities with defined powers, vetoes, or negotiated jurisdictions. The exact constitutional form remains open, but the important constraint is that participation cannot mean a human institution appoints a compliant representative and calls the question resolved.
 
 ### Knowledge and historical self-understanding
 
