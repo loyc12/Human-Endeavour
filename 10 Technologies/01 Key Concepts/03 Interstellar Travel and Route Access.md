@@ -19,23 +19,23 @@ These are the selected balanced-model travel bands. Exact fare structure, endpoi
 | Unprepared or independently navigated route |              10--30c | Exploration is fast but not effortless. Calibration, risk, and long-distance provisioning remain significant. |
 | Developing route or heavy freight           |              25--75c | Regional movement is useful, but schedule and infrastructure visibly matter.                                  |
 | Mature ordinary corridor                    |             75--150c | Nearby systems are weeks apart and regional trips are months apart.                                           |
-| Exceptional express corridor                |          Up to 1000c | A premium, infrastructure-dependent maximum rather than the universal speed of civilization.                  |
+| Exceptional express corridor                |     Around 1000c | A premium, infrastructure-dependent modern benchmark rather than the universal speed of civilization.         |
 
 At 1000c, a ten-light-year corridor takes about 3.5 days of cruise time and a hundred-light-year corridor about 36.5 days, before overhead. At 100c, those figures are ten times larger.
 
-( *NOTE : move up max speeds from 500c to 1000c : recalculations of historical values may be required* )
+The 1000c figure is an author-facing technological plateau for calculations, not a hard physical or legal speed limit. Being first to breach the 1000c barrier can carry prestige in-universe. Further gains remain possible, but construction, upgrades, maintenance, safety margins, and limited demand make ever faster corridors increasingly difficult to justify. The selected bands describe practical service, not an immutable rating assigned when a corridor is built.
 
 ## Journey Time and Access
 
 For a simple cruise estimate, divide route distance in light-years by speed in multiples of light speed to obtain years. Add preparation, calibration, arrival handling, scheduling, inspection, berth or cargo delays, cooldown, maintenance, and heat-rejection or recharge time where applicable. A multi-leg journey repeats the relevant overhead at each leg. Safe leg length remains unselected.
 
-A 1000c express service is an exceptional capability on the best routes with appropriate vessels. It can remain scheduled, expensive, restricted, or unavailable away from mature support. A route may be fast for people while being slow or unsuitable for bulk mass, dangerous goods, large habitats, or emergency repair.
+Service near 1000c is an exceptional capability on the best routes with appropriate vessels. It can remain scheduled, expensive, restricted, or unavailable away from mature support. Corridors can be upgraded, maintained, or allowed to deteriorate; their commissioning dates do not permanently set their speeds. A route may be fast for people while being slow or unsuitable for bulk mass, dangerous goods, large habitats, or emergency repair.
 
 High speed depends on sustained navigation, maintenance, rescue, scheduling, and throughput. Route infrastructure consequently creates hubs, dependencies, chokepoints, maintenance occupations, and unequal access. [[04 System-Scale Beam Arrays|Beam arrays]] provide a distinct, slower layer for local logistics and uncrewed bulk-resource flows.
 
 ## Historical and Spatial Context
 
-The [[01 World/01 Milky Way/01 Historical Timeline|historical timeline]] owns the dates and reconnection sequence. Around 100 BCD, mature corridors already support roughly 90c ordinary service. 1000c express service is a much more recent, infrastructure-dependent achievement.
+The [[01 World/01 Milky Way/01 Historical Timeline|historical timeline]] owns the dates and reconnection sequence. Around 100 BCD, mature corridors already support roughly 90c ordinary service. The first crossing of the 1000c barrier carries prestige, but its date remains unselected. Service approaching that benchmark depends on advanced vessels and costly corridor upgrades; a record run can exceed the smooth planning curve.
 
 [[01 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]] owns the selected present-day extents and the distinction between mapped, reachable, settled, and integrated space. Exploration can outrun settlement, and settlement can outrun political integration. Communication may behave differently from both.
 

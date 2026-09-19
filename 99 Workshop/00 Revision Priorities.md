@@ -20,7 +20,6 @@ This page owns work priority and explicit deferrals. Detailed questions and sele
 | Define surviving gravity, heat rejection, power, propulsion, sensors, fabrication, and stores. | [[11 Ship and Crew/01 Vessel, Crew, and Emergency Organisation#Operational State to Define\|Operational state]] | Open; technology existence does not establish ship availability. |
 | Decide whether FTL communications exist and, if so, why the displaced ship has no usable path home. | [[10 Technologies/01 Key Concepts/01 Spacetime Engineering#Open Questions\|Communications boundary]] | Open. |
 | Bound beam-array scale, access, range, braking, and historical role. | [[10 Technologies/01 Key Concepts/04 System-Scale Beam Arrays\|Beam arrays]] | Active direction; its historical explanation remains unselected. |
-| Resolve the 1000c reference versus 500c calculation-model discrepancy, then identify every dependent figure before any authorized recalculation. | [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access\|Travel reference]] and [[99 Workshop/03 Travel and Settlement Calculations\|calculation model]] | Open. Preserve both values and the existing inline revision note until the author decides the intended baseline and recalculation scope. |
 
 ## Priority 2: First Recovery Arc
 
@@ -43,6 +42,6 @@ This page owns work priority and explicit deferrals. Detailed questions and sele
 ## Selected Baselines to Consult
 
 - [[01 World/01 Milky Way/00 Milky Way Overview|Milky Way Overview]] links the selected chronology, diaspora, regional connectivity, uplift, and contact references.
-- [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]] records the approved travel reference and the unresolved speed-revision note. The 1000c/500c inconsistency is tracked above, and [[03 Travel and Settlement Calculations|Travel and Settlement Calculations]] owns the parameters.
+- [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]] records the approved modern travel bands and the author-facing 1000c plateau. [[03 Travel and Settlement Calculations|Travel and Settlement Calculations]] owns the parameters and the furthest-point exploration calculation; [[01 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]] owns its spatial interpretation.
 
 These are dependencies, not pending promotion decisions. Reopen selected baselines only when a chosen FTL mechanism or direct narrative requirement cannot support them. An approval decision should update its owner and affected dependants, not add another summary here.

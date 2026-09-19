@@ -6,6 +6,8 @@
 
 These author-facing aims guide choices among plausible possibilities. They do not establish technical rules, plot events, or a universal in-setting philosophy.
 
+NOTE : review this file's content, as I did not explicitly state it myself.
+
 ## Central Thesis
 
 Civilizations endure and improve not merely through intelligence or advanced tools, but through the patient construction of reliable knowledge, institutions capable of learning, and relationships built on mutual understanding.

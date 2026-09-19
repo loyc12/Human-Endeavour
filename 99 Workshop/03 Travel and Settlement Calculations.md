@@ -26,7 +26,7 @@ Use light-years, years, and multiples of light speed. In these units, `1c = 1 ly
 | `d` | Local-system distance in metres, kilometres, or AU. |
 | `v_free` | Safe, self-navigated FTL cruise speed without mature route support. |
 | `v_lane` | Cruise speed on a maintained, surveyed, infrastructure-supported route. |
-| `v_max` | Exceptional, top-speed service on the best route and with the best vessel. It is not a normal planning speed. |
+| `v_max` | Exceptional, top-speed service on the best route and with the best vessel. Its 1000c ceiling is an author-facing practical plateau, not a physical limit. |
 | `I` | Infrastructure quality from `0` (none) to `1` (mature route). |
 | `L` | Maximum safe leg length before a staging, navigation, or support stop is required. |
 | `t_entry`, `t_exit` | Time for preparation, calibration, and arrival handling per leg. |
@@ -39,7 +39,7 @@ Use light-years, years, and multiples of light speed. In these units, `1c = 1 ly
 | `t` | Years since official FTL discovery. |
 | `t_50` | Nominal midpoint of a technological capability's takeoff after FTL discovery. |
 | `w_10-90` | Years taken for a capability to rise from ten to ninety percent of its practical mature increase. |
-| `a_route` | Age of a particular route since it was commissioned. |
+| `a_route` | Effective maturation time of a route's current infrastructure and operating practice, not necessarily its calendar age since first commissioning. |
 | `\tau_route` | Characteristic time for a route to acquire mature infrastructure and operating practice. |
 | `H` | Service class: `0` for ordinary service and `1` for an exceptional express service. |
 
@@ -58,7 +58,7 @@ $$
 v_x(t) = v_{x,\mathrm{start}} + \left(v_{x,\infty}-v_{x,\mathrm{start}}\right)\widetilde L(t;t_{50,x},w_{10-90,x})
 $$
 
-`v_x,start` is the usable capability at official FTL discovery (`t = 0`), and `v_x,∞` is the practical mature ceiling, not an inviolable physical limit. The normalization makes the selected starting value exact. The `10--90` parameter is more intuitive than a raw steepness constant: a smaller value means a sharper technological revolution. When the nominal midpoint is well after discovery, it remains a close practical description of the midpoint of adoption.
+`v_x,start` is the usable capability at official FTL discovery (`t = 0`), and `v_x,∞` is the practical mature ceiling, not an inviolable physical limit. The 1000c express ceiling emulates a technological and engineering plateau, reinforced by the rising cost and declining institutional appetite for further corridor upgrades. It does not rule out a later speed record beyond 1000c. The normalization makes the selected starting value exact. The `10--90` parameter is more intuitive than a raw steepness constant: a smaller value means a sharper technological revolution. When the nominal midpoint is well after discovery, it remains a close practical description of the midpoint of adoption.
 
 Apply the curve separately to three raw capabilities:
 
@@ -79,11 +79,13 @@ This is the recommended historical shape for the setting: early FTL can cross `1
 
 ### Route maturation and service class
 
-High speeds should also depend on the age and quality of a *specific* route. Model its infrastructure quality as:
+High speeds should also depend on the quality of a *specific* route. For an ordinary route development programme, model its infrastructure quality through effective maturation time as:
 
 $$
 I(a_{\mathrm{route}}) = 1-e^{-a_{\mathrm{route}}/\tau_{\mathrm{route}}}
 $$
+
+This is a planning proxy for present infrastructure and operating practice, not a permanent speed rating determined by the first commissioning date. A substantial upgrade can raise a route's effective maturity; maintenance can preserve it, while neglect or damage can reduce it. Reassess `I` or its equivalent `a_route` for the route's current condition when applying the same service formula. The historical curve describes an ordinary development path, not a prohibition on rebuilding a route to a higher standard.
 
 Use the resulting quality to calculate ordinary service:
 
@@ -103,7 +105,7 @@ v_{\mathrm{ordinary}}
 \right)^{H I^\gamma}
 $$
 
-`\gamma` controls how strongly exceptional service depends on route quality. A value near `1` is a moderate requirement. A value near `2` makes near-perfect infrastructure necessary for the highest speeds. Thus a ship with advanced hardware falls back toward `v_free` on an unprepared route, while a mature corridor may support a routine `v_lane` service and, rarely, a 500c express service.
+`\gamma` controls how strongly exceptional service depends on route quality. A value near `1` is a moderate requirement. A value near `2` makes near-perfect infrastructure necessary for the highest speeds. Thus a ship with advanced hardware falls back toward `v_free` on an unprepared route, while a mature corridor may support a routine `v_lane` service and, rarely, express service approaching 1000c.
 
 The former static interpolation is a special case of this model: use the current `I` for a route and set `H = 0` for ordinary service.
 
@@ -121,7 +123,7 @@ $$
 T_{\mathrm{route}} = \sum_{j=1}^{n}\left(\frac{D_j}{v_{\mathrm{eff},j}} + t_{\mathrm{entry},j} + t_{\mathrm{exit},j} + t_{\mathrm{cool},j}\right) + t_{\mathrm{wait}}
 $$
 
-The overhead terms are how infrastructure retains importance even when headline FTL speeds are high. A 500c express service can still be unavailable, scheduled, expensive, or impossible away from mature endpoints.
+The overhead terms are how infrastructure retains importance even when headline FTL speeds are high. Express service near 1000c can still be unavailable, scheduled, expensive, or impossible away from mature endpoints.
 
 ### Selected balanced-model parameters
 
@@ -131,16 +133,18 @@ The time origin is FTL discovery at 260 BCD. The values below use the logistic i
 | --- | ---: | ---: | ---: | ---: |
 | `v_free` | 1c | 30c | 135 years | 110 years |
 | `v_lane` | 1c | 150c | 150 years | 95 years |
-| `v_max` | 1c | 500c | 215 years | 50 years |
+| `v_max` | 1c | 1000c | 215 years | 50 years |
 | `v_infra` | 0.1c | 8c | 160 years | 110 years |
 | `I(a_route)` | 0 | 1 | — | `\tau_route = 25` years |
 | Exceptional-service dependence | — | — | — | `\gamma = 2` |
 | Exploration efficiency | — | — | — | `\epsilon_exp = 0.65` |
 | Settlement-choice ceiling | 0.12c | 9c | 170 years | 110 years |
 
+For the revised express curve, the best-route technological envelope is about 92c at 100 BCD, 501c at 45 BCD, 900c at 20 BCD, and 981c at the present. These values are historical planning estimates before route-quality adjustments, not records or fixed dates for the first 1000c crossing. Exceptional engineering or later upgrades can exceed the smooth curve; the date of any record crossing remains unselected.
+
 The settlement-choice ceiling represents `\ell_choice/(t_decision + t_build + t_support)` and is still limited by exploration and infrastructure. It therefore does not imply that a ship's cruise capability becomes a settlement-front capability.
 
-With an 8,000-year history, 260 years of FTL, and a 0.05c pre-FTL average frontier rate, this parameter set produces the [[01 World/01 Milky Way/03 Regions and Connectivity#Selected Characteristic Extents|selected characteristic extents]]. The present travel classes and the historical 90c corridor benchmark are summarized in [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]].
+With an 8,000-year history, 260 years of FTL, and a 0.05c pre-FTL average frontier rate, this parameter set supports the [[01 World/01 Milky Way/03 Regions and Connectivity#Selected Characteristic Extents|selected characteristic extents]]. The exploration figure uses the leading-corridor assumption stated below. The present travel classes and the historical 90c corridor benchmark are summarized in [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]].
 
 ## 2. Local-System Travel
 
@@ -214,15 +218,17 @@ v_{\mathrm{exp,tech}}(t),
 \right)
 $$
 
-`\ell_survey` is the typical outward step between validated targets. `F_effective` is the number of genuinely available survey assets, after accounting for geography and competing work. It need not equal the total fleet.
+`\ell_survey` is the typical outward step between validated targets. `F_effective` is the number of genuinely available survey assets, after accounting for geography and competing work. It need not equal the total fleet. For the selected furthest-point estimate, assume the survey-throughput term does not bind along the single most successful outward sequence. It can still sharply limit coverage in other directions and the number of systems investigated.
 
-Along a deliberately maintained exploration corridor:
+For a selected outward exploration sequence:
 
 $$
 R_{\mathrm{explored}}(t) = R_0 + \int_0^t v_{\mathrm{exp}}(u)\,du
 $$
 
-This produces a *spoke*, route, or selected set of targets rather than a filled sphere. To estimate the number of candidate systems actually surveyed, multiply the broad geometric volume by a coverage fraction `f_cov`:
+With `R_0 = 0` at FTL discovery and the selected `v_free` curve, integrating `0.65 v_free` for 260 years gives about 2,515 ly, rounded to a furthest explored point about 2,500 ly from Sol. This is an approximate furthest validated reach along an unusually successful sequence of targets, not the radius of a continuously surveyed region. Most space inside it is reachable in principle but unreached, and coverage remains sparse even along selected directions. Do not add the pre-FTL diaspora's 390-ly extent to this Sol-centred calculation.
+
+To estimate the number of candidate systems actually surveyed, multiply the broad geometric volume by a coverage fraction `f_cov`:
 
 $$
 N_{\mathrm{surveyed}} \approx f_{\mathrm{cov}}\,n_\star\,V(R)
@@ -297,10 +303,10 @@ For each historical period, record the logistic and social parameters rather tha
 | `v_lane` |  |  |  |  | Ordinary mature-corridor service |
 | `v_max` |  |  |  |  | Exceptional express service |
 | `v_infra` |  |  |  |  | Route-construction and support-front rate |
-| `I(a_route)` | 0 | 1 |  | `\tau_route` | Maturation of each commissioned route |
+| `I(a_route)` | 0 | 1 |  | `\tau_route` | Effective quality of the route's current infrastructure and practice |
 | `\ell_choice/(t_decision+t_build+t_support)` |  |  |  |  | Settlement appetite and support bottleneck |
 
-The selected balanced model uses a long 0.05c sublight era; FTL discovery with a low `v_free` floor; a deliberately delayed `v_lane` takeoff; a still later, steeper `v_max` curve toward 500c; and a settlement bottleneck that remains far below cruise capability. Its parameters are recorded above; [[01 World/01 Milky Way/01 Historical Timeline|Historical Timeline]] owns chronology and [[01 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]] owns the spatial interpretation.
+The selected balanced model uses a long 0.05c sublight era; FTL discovery with a low `v_free` floor; a deliberately delayed `v_lane` takeoff; a still later, steeper `v_max` curve toward a practical 1000c plateau; and a settlement bottleneck that remains far below cruise capability. Its parameters are recorded above; [[01 World/01 Milky Way/01 Historical Timeline|Historical Timeline]] owns chronology and [[01 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]] owns the spatial interpretation.
 
 ## Interpretation Rules
 

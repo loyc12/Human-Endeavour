@@ -23,9 +23,9 @@ The pattern recurs at several scales. Sol and its immediate neighbours form the 
 | Pre-FTL diaspora reach         |         ~390 ly | A characteristic outer extent of old, uneven human-descended and post-human space. Rare faster foundation missions and sparse outliers do not imply a filled or uniformly mature sphere. |
 | Active maintained-route extent |         ~820 ly | Irregular core-centred networks with reliable support, not a circle of equal access.                                                                                                     |
 | Durable settlement extent      |         ~790 ly | Characteristic serviceable settlement frontier. Rare outliers do not redefine normal civilization.                                                                                       |
-| Selected exploration corridors |       ~1,230 ly | Surveyed spokes and contact zones, not a filled or uniformly known volume.                                                                                                               |
+| Furthest explored point         |       ~2,500 ly | Approximate furthest validated reach from Sol along an exceptional exploration sequence, not the extent of continuous survey coverage.                                                  |
 
-These are outputs of the approved [[99 Workshop/03 Travel and Settlement Calculations|travel and settlement model]], not filled spheres, political borders, or measures of uniform occupation. The 390-ly pre-FTL extent belongs to the historical baseline, and the other extents describe the present.
+These are outputs of the approved [[99 Workshop/03 Travel and Settlement Calculations|travel and settlement model]], not filled spheres, political borders, or measures of uniform occupation. The 390-ly pre-FTL extent belongs to the historical baseline, and the other extents describe the present. The exploration figure is the distance of an exceptional explored point from Sol, not a surveyed radius: most space within that reach remains merely reachable and unreached.
 
 ## Present-Day Regions
 
@@ -36,7 +36,7 @@ These are outputs of the approved [[99 Workshop/03 Travel and Settlement Calcula
 | Legacy and outer sublight diaspora |                                                 175--390 ly | A mixed region of old, locally entrenched societies, smaller clusters, corridor settlements, and sparse or younger fringe systems. The few exceptional distant foundations do not make every system equally mature. |
 | Reconnection settlement belt       |                                                 390--800 ly | The principal FTL-era expansion and integration zone: connected but unequal and politically uneven, with local meshes, thin branches, and lightly settled systems.                                                  |
 | Sparse settlement frontier         |                                               800--1,200 ly | Isolated recent communities, specialized projects, extraction sites, contact settlements, and selectively developed corridor nodes.                                                                                 |
-| Exploration and contact corridors  |                                           To about 1,230 ly | Selectively surveyed spokes rather than continuous, routinely inhabited space.                                                                                                                                      |
+| Distant exploration reach          |                                           To about 2,500 ly | Rare validated targets along selected outward sequences; most intervening space is reachable but unreached, without continuous survey or routine habitation.                                                                                        |
 
 ## Connectivity Vocabulary
 
