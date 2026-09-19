@@ -8,7 +8,7 @@
 
 ## Scope
 
-This is a history-and-consequences inquiry, not a claim that every non-human person shares common origins or politics. The author-facing term [[00 Core/04 Terminology|uplift]] covers technological, biological, educational, and social processes that enable participation in interstellar civilisation. It should never imply that a sponsor grants a person's moral worth or political standing.
+This is a history-and-consequences inquiry, not a claim that every non-human person shares common origins or politics. The author-facing term [[00 Core/04 Terminology|uplift]] covers technological, biological, educational, and social processes that enable participation in interstellar civilization. It should never imply that a sponsor grants a person's moral worth or political standing.
 
 ## Working Historical Reading
 
@@ -16,7 +16,7 @@ The selected timeline is not one galaxy-wide "uplift event." Most precursor inte
 
 This permits uplifted peoples to be historically established rather than newly made, while keeping its large-scale politics current. A present-day adult may descend from a population altered long ago, participate in a recent voluntary adaptation programme, belong to a polity that rejected outside intervention, or have no connection to uplift at all. None of these conditions determines culture, personality, allegiance, or competence.
 
-Notably, the independently spacefaring civilisation contacted about 190 BCD underwent post-contact technological acceleration and interstellar integration, but are not themselves an uplift-created civilisation, as their civilisation meaningfully existed before contact.
+Notably, the independently spacefaring civilization contacted about 190 BCD underwent post-contact technological acceleration and interstellar integration, but are not themselves an uplift-created civilization, as their civilization meaningfully existed before contact.
 ## Ramifications to Preserve
 
 ### Personhood and consent
@@ -33,7 +33,7 @@ The exact share of the Milky Way population remains deliberately open. What matt
 
 Legal equality does not erase dependence on imported medicine, education, interface technology, habitat design, certified maintenance, or offworld markets. Conversely, a population can use technologies introduced through uplift while retaining, recovering, or building its own institutions. The setting should make room for both exploitative sponsor relationships and genuine partnerships without using either as a universal story.
 
-Some of the most politically meaningful disputes may concern who controls continuing support, what happens when a supplier withdraws, whether an adapted community can set its own development tempo, and whether a host polity recognises collective as well as individual rights.
+Some of the most politically meaningful disputes may concern who controls continuing support, what happens when a supplier withdraws, whether an adapted community can set its own development tempo, and whether a host polity recognizes collective as well as individual rights.
 
 ### Culture, ecology, and kinship
 
@@ -47,10 +47,10 @@ The resulting diversity makes the vessel programme materially and politically cr
 
 - A widespread norm holds that personhood and ordinary civic rights do not depend on uplift origin. Collective sovereignty, dependency, compensation, and intervention remain contested in practice.
 - No one-time sponsor decision settles consent forever. Continuing support, later generations, community deliberation, and refusal rights remain live political questions.
-- Uplifted characters have specific professions, relationships, and political histories. Origin can shape practical experience without substituting for individual or cultural characterisation.
+- Uplifted characters have specific professions, relationships, and political histories. Origin can shape practical experience without substituting for individual or cultural characterization.
 
 The multiple local histories and meaningful but uneven demographic distribution described above are selected constraints, but exact population shares and detailed institutions remain open.
 
 ## Dependencies
 
-The material cost of adaptation, access to habitat technology, and speed of interstellar support all depend on the unresolved civilisational technology and logistics questions. This section should inform, not pre-empt, the later work on species composition, population mixing, mundane life, and political topology in [[99 Workshop/02 Milky Way Development Questions|Milky Way Development Questions]].
+The material cost of adaptation, access to habitat technology, and speed of interstellar support all depend on the unresolved civilizational technology and logistics questions. This section should inform, not pre-empt, the later work on species composition, population mixing, mundane life, and political topology in [[99 Workshop/02 Milky Way Development Questions|Milky Way Development Questions]].

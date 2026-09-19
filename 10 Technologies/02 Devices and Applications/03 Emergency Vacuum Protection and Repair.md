@@ -6,21 +6,21 @@
 
 ## Intended Use
 
-This document owns the initial emergency-vacuum and repair concepts. A future life-support reference should own the broader physiology, compartmentalisation, atmosphere, and rescue doctrine.
+This document owns the initial emergency-vacuum and repair concepts. A future life-support reference should own the broader physiology, compartmentalization, atmosphere, and rescue doctrine.
 
 ## Current Foundation
 
-Rapid depressurisation is a recurring shipboard hazard. Emergency equipment can improve survival and buy time for rescue, but does not make vacuum harmless or remove the need for sealed compartments, training, and rapid damage control.
+Rapid depressurization is a recurring shipboard hazard. Emergency equipment can improve survival and buy time for rescue, but does not make vacuum harmless or remove the need for sealed compartments, training, and rapid damage control.
 
 ### Emergency Vacuum Safety Suit (EVSS)
 
-An EVSS is a compact personal survival system that applies mechanical counter-pressure to the body during a depressurisation emergency. Configurations trade convenience and mobility against coverage and survival margin. Deployable protection for the head and extremities can extend a partly worn suit into more complete emergency coverage.
+An EVSS is a compact personal survival system that applies mechanical counter-pressure to the body during a depressurization emergency. Configurations trade convenience and mobility against coverage and survival margin. Deployable protection for the head and extremities can extend a partly worn suit into more complete emergency coverage.
 
-An EVS suit is not a complete substitute for an EVA suit. It needs a compatible breathing system, eye and airway protection, and appropriate thermal management. Thin emergency protection also provides little meaningful shielding from ionising radiation.
+An EVS suit is not a complete substitute for an EVA suit. It needs a compatible breathing system, eye and airway protection, and appropriate thermal management. Thin emergency protection also provides little meaningful shielding from ionizing radiation.
 
 ### Respiratory Interfaces
 
-Some people use an implanted or externally fitted airway interface that can rapidly connect their lungs to an emergency respirator. The draft term *biomechanical inhalator* is retained as a possible colloquial or technical name; its exact implementation and species-specific variants remain open.
+Some people use an implanted or externally fitted airway interface that can rapidly connect their lungs to an emergency respirator. The draft term *biomechanical inhalator* is retained as a possible colloquial or technical name. Its exact implementation and species-specific variants remain open.
 
 ### Deployable Vacuum-Protection Shrouds
 

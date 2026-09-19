@@ -8,7 +8,7 @@ These author-facing aims guide choices among plausible possibilities. They do no
 
 ## Central Thesis
 
-Civilisations endure and improve not merely through intelligence or advanced tools, but through the patient construction of reliable knowledge, institutions capable of learning, and relationships built on mutual understanding.
+Civilizations endure and improve not merely through intelligence or advanced tools, but through the patient construction of reliable knowledge, institutions capable of learning, and relationships built on mutual understanding.
 
 ## Supporting Ideas
 
@@ -18,11 +18,11 @@ Advanced technology is not an exemption from material reality. Its availability 
 
 ### People are not stupid
 
-Characters and organisations have discoverable goals, preferences, and incentives, and act towards fulfilling them to the best of their abilities and knowledge.
+Characters and organizations have discoverable goals, preferences, and incentives, and act towards fulfilling them to the best of their abilities and knowledge.
 
-### Organisations are not monoliths
+### Organizations are not monoliths
 
-Organisations and polities are made of people and their relations, and thus host internal tensions and divergent incentives, which inform their observable behaviour.
+Organizations and polities are made of people and their relations, and thus host internal tensions and divergent incentives, which inform their observable behaviour.
 
 ### Ideas are born out of conditions
 
@@ -40,7 +40,7 @@ Hope is neither optimism without evidence nor the absence of catastrophe. It is 
 
 The crew's journey is not a one-sided encounter with a backdrop called Andromeda. Every contact changes what the visitors understand about themselves, while the visitors' presence may impose risks and responsibilities on people who did not ask for it.
 
-## Questions to Dramatise
+## Questions to Dramatize
 
 These are not binary positions that the story must settle once and for all. Different crew members, institutions, and societies can have principled, self-interested, or mixed answers.
 
@@ -52,7 +52,7 @@ These are not binary positions that the story must settle once and for all. Diff
 | Personhood           | What makes a mind deserving of rights, care, and political standing?                  |
 | Responsibility       | What obligations accompany extraordinary technological and military capacity?         |
 | Contact              | How can explorers avoid turning curiosity, need, or good intentions into domination?  |
-| Institutional memory | How do people build organisations that learn without becoming rigid or unaccountable? |
+| Institutional memory | How do people build organizations that learn without becoming rigid or unaccountable? |
 
 ## Philosophical Tensions
 

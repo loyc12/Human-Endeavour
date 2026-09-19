@@ -12,7 +12,7 @@ This is a narrative-planning foundation, not a character sheet. Add specific pro
 
 ## Primary Viewpoints
 
-The story follows both the [[03 Ship and Crew/00 Ship and Mission|ship's]] new command team and a small, close-knit lower-deck crew. This permits the catastrophe and its consequences to be experienced at different scales: command decisions, their implementation, ordinary survival, friendship, resentment, and the culture that forms between them.
+The story follows both the [[11 Ship and Crew/00 Ship and Mission|ship's]] new command team and a small, close-knit lower-deck crew. This permits the catastrophe and its consequences to be experienced at different scales: command decisions, their implementation, ordinary survival, friendship, resentment, and the culture that forms between them.
 
 ### Command Team
 
@@ -27,4 +27,4 @@ The story follows both the [[03 Ship and Crew/00 Ship and Mission|ship's]] new c
 
 ## Continue Planning
 
-[[04 Narrative/02 Character and Relationship Seeds|Character and Relationship Seeds]] holds the candidate identities, roles, and relationships. [[04 Narrative/03 Opening and Recovery Arc|Opening and Recovery Arc]] holds the report framing, mentorship, recovery sequence, and scene pressures. [[03 Ship and Crew/01 Vessel, Crew, and Emergency Organisation|Vessel, Crew, and Emergency Organisation]] owns the proposed formal appointments and surviving institutions.
+[[02 Character and Relationship Seeds|Character and Relationship Seeds]] holds the candidate identities, roles, and relationships. [[03 Opening and Recovery Arc|Opening and Recovery Arc]] holds the report framing, mentorship, recovery sequence, and scene pressures. [[11 Ship and Crew/01 Vessel, Crew, and Emergency Organisation|Vessel, Crew, and Emergency Organisation]] owns the proposed formal appointments and surviving institutions.

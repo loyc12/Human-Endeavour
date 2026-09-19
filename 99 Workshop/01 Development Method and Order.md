@@ -6,25 +6,25 @@
 
 ## Intended Use
 
-This is an authorial tool. It should guide brainstorming and audits, not appear as a universal in-setting theory of how every civilisation thinks.
+This is an authorial tool. It should guide brainstorming and audits, not appear as a universal in-setting theory of how every civilization thinks.
 
 For any topic, distinguish these layers:
 
 | Layer | Question |
 | --- | --- |
 | **Objective reality** | How does it actually work, including constraints and unknowns? |
-| **Institutional knowledge** | What can relevant organisations establish, measure, or safely do? |
+| **Institutional knowledge** | What can relevant organizations establish, measure, or safely do? |
 | **Common practice** | What do people successfully do with it in daily life? |
 | **Common belief** | What do they think is happening, and where might they be mistaken or divided? |
 | **Narrative revelation** | What does the reader learn now, later, or perhaps never? |
 
 ## Development Loop
 
-1. State the question and mark the answer as **exploring**, **provisional**, **canon**, or **rejected**.
+1. State the question and retain its actual status using [[Documentation Conventions#Status and Approval|the local status vocabulary]]. Use **Exploring** for alternatives and **Provisional** for a working proposal. Record **Approved baseline** or **Selected baseline** only after an explicit author decision, with its scope. Preserve explicit rejection decisions without treating them as active proposals.
 2. Identify the direct physical, logistical, social, and ethical consequences.
 3. Ask which people and institutions benefit, lose power, adapt, or misunderstand it.
 4. Test the result against the [[00 Core/02 Axioms|setting axioms]], premise, and existing canon.
-5. Record each result in its topical owner with its actual approval status. Active working references may contain explicitly separated approved constraints and exploratory sections; moving text is not canonisation. Workshop retains development questions, calculations, and inherited alternatives rather than duplicate current answers.
+5. Record each result in its topical owner with its actual approval status. Active working references may contain explicitly separated approved constraints and exploratory sections. Moving text is not canonization. Workshop retains development questions, calculations, and inherited alternatives rather than duplicate current answers.
 
 ## Detail Threshold
 
@@ -32,7 +32,7 @@ Specify a mechanism far enough to determine what it can and cannot do in a scene
 
 ## Dependency Order
 
-This is a dependency guide, not a requirement to complete every tier before writing scenes. Prioritise the next unresolved constraint that will change several later decisions or directly support the current narrative work.
+This is a dependency guide, not a requirement to complete every tier before writing scenes. Prioritize the next unresolved constraint that will change several later decisions or directly support the current narrative work.
 
 0. Core premise and narrative promise
 1. Physics, FTL, and communication constraints
@@ -51,7 +51,7 @@ Define the recurring pressures that make interstellar life and the return proble
 Focus on:
 
 - FTL travel and navigation
-- The distinction between an exceptionally difficult FTL breakthrough and the infrastructure, knowledge, and institutions needed to use it routinely. Preserve the historical design constraint: attaining FTL took roughly eight thousand years on the human path and may have depended on a contingent breakthrough. It is not inevitable for every spacefaring civilisation.
+- The distinction between an exceptionally difficult FTL breakthrough and the infrastructure, knowledge, and institutions needed to use it routinely. Preserve the historical design constraint: attaining FTL took roughly eight thousand years on the human path and may have depended on a contingent breakthrough. It is not inevitable for every spacefaring civilization.
 - Relativistic, causal, and communications limits
 - Energy, heat, mass, and reaction-mass economics where relevant
 - Sensors, stealth, and information limits
@@ -73,7 +73,7 @@ Define:
 
 ### 3. Anomaly and Displacement Boundary
 
-The [[00 Core/01 Premise|premise]] owns the established displacement constraints. Define what the anomaly can and cannot do only as needed to constrain damage, navigation, and survival. Its mechanism, debris source, and relation to the destination remain open; [[02 World/02 Arrival Region|arrival-region mechanism and scavenging]] remain explicitly deferred until resumed.
+The [[00 Core/01 Premise|premise]] owns the established displacement constraints. Define what the anomaly can and cannot do only as needed to constrain damage, navigation, and survival. Its mechanism, debris source, and relation to the destination remain open. [[01 World/02 Arrival Region|arrival-region mechanism and scavenging]] remain explicitly deferred until resumed.
 
 ### 4. Immediate Andromedan Situation
 
@@ -117,11 +117,11 @@ Define:
 
 Develop these in response to specific narrative needs rather than as an encyclopaedia of a galaxy.
 
-- Use the selected [[02 World/01 Milky Way/00 Milky Way Overview|Milky Way references]] and [[01 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|travel baseline]] as constraints. Revisit an approved baseline only when a selected FTL mechanism or a direct narrative need cannot support it.
-- Apply the distinct [[02 World/01 Milky Way/04 Uplift, Adaptation, and Sovereignty|uplift]] and [[02 World/01 Milky Way/05 Independent Near-Peer Civilisation|independent-contact]] constraints; preserve agency, consent, dependency, and regional demographic variation.
+- Use the selected [[01 World/01 Milky Way/00 Milky Way Overview|Milky Way references]] and [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|travel baseline]] as constraints. Revisit an approved baseline only when a selected FTL mechanism or a direct narrative need cannot support it.
+- Apply the distinct [[01 World/01 Milky Way/04 Uplift, Adaptation, and Sovereignty|uplift]] and [[01 World/01 Milky Way/05 Independent Near-Peer Civilisation|independent-contact]] constraints. Preserve agency, consent, dependency, and regional demographic variation.
 - Use regional distributions, institutions, migration, ecology, and historical contingencies to explain species composition. Neither a species nor an uplift origin determines a uniform culture, political position, or relationship to the coalition.
 - Design species from evolutionary and environmental realities, then trace their practical effects without turning biology into destiny.
-- Let cultures arise from material conditions, shared histories, institutions, and contact—not from species archetypes.
+- Let cultures arise from material conditions, shared histories, institutions, and contact rather than species archetypes.
 - Build history as accumulated technological, ecological, economic, and political change.
 - Give every broad fact a local expression: a custom, bottleneck, memory, law, infrastructure system, or tension the protagonists can encounter.
 
@@ -129,7 +129,7 @@ Develop these in response to specific narrative needs rather than as an encyclop
 
 Every major element should generate conflict.
 
-For each organisation, society, or polity, define:
+For each organization, society, or polity, define:
 
 - Goals and fears
 - Resources and vulnerabilities
@@ -144,4 +144,4 @@ For each organisation, society, or polity, define:
 
 Build causes before outcomes and interactions before isolated factions. Let institutions, economic incentives, and accumulated history shape behaviour. Prefer conflicts of values, knowledge, incentives, and need over simplistic moral sorting. Important systems should connect to others through visible consequences, but not every possible implication requires documentation.
 
-[[99 Workshop/00 Revision Priorities|Revision Priorities]] owns the current order of unresolved work and explicit deferrals. [[Documentation Conventions|Documentation Conventions]] owns filing, status, linking, and editing rules.
+[[00 Revision Priorities|Revision Priorities]] owns the current order of unresolved work and explicit deferrals. [[Documentation Conventions|Documentation Conventions]] owns filing, status, linking, and editing rules.

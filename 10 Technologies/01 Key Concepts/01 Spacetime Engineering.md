@@ -10,11 +10,11 @@
 
 ## Direction
 
-The setting may use an advanced branch of physics capable of deliberately manipulating local spacetime geometry or related fields. This replaces the earlier, incorrect use of quantum entanglement as an explanation for FTL communication or "entangled hydrogen." In the author-facing [[01 Technologies/00 Technology Guide and Catalogue|Technology Guide and Catalogue]], this is **setting-specific physics**: unlike extrapolative engineering such as rotational habitats or beam arrays, it requires novel science and must be separately bounded.
+The setting may use an advanced branch of physics capable of deliberately manipulating local spacetime geometry or related fields. This replaces the earlier, incorrect use of quantum entanglement as an explanation for FTL communication or "entangled hydrogen." In the author-facing [[10 Technologies/00 Technology Guide and Catalogue|Technology Guide and Catalogue]], this is **setting-specific physics**: unlike extrapolative engineering such as rotational habitats or beam arrays, it requires novel science and must be separately bounded.
 
 The intended benefit is a common conceptual lineage for FTL travel, communications, artificial gravity, and inertial management. It must remain a constrained engineering discipline rather than a general-purpose ability to rewrite reality.
 
-[[01 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]] records the approved travel-scale baseline. [[99 Workshop/03 Travel and Settlement Calculations|Travel and Settlement Calculations]] owns its selected model parameters and equations. Those planning constraints are mechanism-independent; the physical implementation and communications behaviour remain open here.
+[[03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]] records the approved travel-scale baseline. [[99 Workshop/03 Travel and Settlement Calculations|Travel and Settlement Calculations]] owns its selected model parameters and equations. Those planning constraints are mechanism-independent. The physical implementation and communications behaviour remain open here.
 
 ## Candidate Applications
 
@@ -35,10 +35,10 @@ The intended benefit is a common conceptual lineage for FTL travel, communicatio
 
 ## Relationship to Gravity Plating
 
-[[01 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating|Metric-Gradient Gravity Plating]] owns the proposed lower-power, local application, including structural reactions, operating load, and spin/hybrid alternatives. The damaged vessel may retain it selectively after losing its drive. This does not select an FTL mechanism or make the capabilities interchangeable.
+[[02 Metric-Gradient Gravity Plating|Metric-Gradient Gravity Plating]] owns the proposed lower-power, local application, including structural reactions, operating load, and spin/hybrid alternatives. The damaged vessel may retain it selectively after losing its drive. This does not select an FTL mechanism or make the capabilities interchangeable.
 
 ## Open Questions
 
 - Is FTL communication part of the setting at all? If yes, what paired infrastructure or directional limitation prevents contact with home?
 - Which elements must survive the displacement for the ship to remain habitable, and which must fail to create the central survival problem?
-- What resource, rare material, or manufacturing precision limits spacetime-engineering devices across civilisation?
+- What resource, rare material, or manufacturing precision limits spacetime-engineering devices across civilization?

@@ -1,4 +1,4 @@
-# Vessel, Crew, and Emergency Organisation
+# Vessel, Crew, and Emergency Organization
 
 **Type: Setting reference**
 
@@ -6,20 +6,20 @@
 
 **Approval: Required before canonisation**
 
-This working reference combines the `DR Ship - Info.tsv` snapshot with ship alternatives from older HSC notes. It preserves numerical, organisational, and narrative material without resolving draft conflicts. The established programme is in [[03 Ship and Crew/00 Ship and Mission|Ship and Mission]].
+This working reference combines the `DR Ship - Info.tsv` snapshot with ship alternatives from older HSC notes. It preserves numerical, organizational, and narrative material without resolving draft conflicts. The established programme is in [[00 Ship and Mission|Ship and Mission]].
 
 ## Vessel Design Alternatives
 
 - A large cylindrical vessel may separate habitation, cargo/reserves, and propulsion into broad longitudinal zones.
-- Older notes give a kilometre-scale vessel; *Drifting Refuge* gives a 415-metre ship. The size must be selected relatively to its crew complement, cargo needs, damage scale, and narrative atmosphere.
-- The project may have first used localised gravimetric fields in much of its work environment, while retaining rotating sections where appropriate.
+- Older notes give a kilometre-scale vessel. *Drifting Refuge* gives a 415-metre ship. The size must be selected relatively to its crew complement, cargo needs, damage scale, and narrative atmosphere.
+- The project may have first used localized gravimetric fields in much of its work environment, while retaining rotating sections where appropriate.
 
 ## Crew and Accommodation
 
 | Measure              | Working figure | Notes                                                                                                                           |
 | -------------------- | -------------: | ------------------------------------------------------------------------------------------------------------------------------- |
-| Initial complement   |            671 | 245 civilians; 426 enlisted personnel.                                                                                          |
-| Survivors            |            525 | 198 civilians; 327 enlisted personnel.                                                                                          |
+| Initial complement   |            671 | 245 civilians and 426 enlisted personnel.                                                                                          |
+| Survivors            |            525 | 198 civilians and 327 enlisted personnel.                                                                                          |
 | Deaths               |            146 | The arithmetic is internally consistent.                                                                                        |
 | Functional quarters  |            562 | Enough in nominal count for survivors, but not necessarily usable without repair and relocation of emergency pop-up facilities. |
 | Operational quarters |            431 | Creates temporary overflow accommodation for 94 people.                                                                         |
@@ -59,8 +59,8 @@ This supports a ship that remains a mixed civic institution during crisis rather
 
 ## Operational State to Define
 
-Record which gravity zones, radiator capacity, power systems, manufacturing capability, sensors, propulsion, and stores survive the displacement. The individual references own the technology; this vessel reference owns what is installed, available, damaged, or inaccessible aboard this ship. In sum, create a "character sheet" for the ship itself, to keep track of its status along the story.
+Record which gravity zones, radiator capacity, power systems, manufacturing capability, sensors, propulsion, and stores survive the displacement. The individual references own the technology. This vessel reference owns what is installed, available, damaged, or inaccessible aboard this ship. In sum, create a "character sheet" for the ship itself, to keep track of its status along the story.
 
-[[01 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating|Gravity plating]], [[01 Technologies/02 Devices and Applications/02 Thermal Battery Banks|thermal storage]], and [[01 Technologies/02 Devices and Applications/03 Emergency Vacuum Protection and Repair|vacuum protection and repair]] constrain these decisions. The opening must not assume a survival capability simply because it exists elsewhere in the setting.
+[[10 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating|Gravity plating]], [[10 Technologies/02 Devices and Applications/02 Thermal Battery Banks|thermal storage]], and [[10 Technologies/02 Devices and Applications/03 Emergency Vacuum Protection and Repair|vacuum protection and repair]] constrain these decisions. The opening must not assume a survival capability simply because it exists elsewhere in the setting.
 
 The emergency-authority model must distinguish command, civilian representation, legal review, medical authority, advisory offices, appeal, and the resumption of civilian governance. Precise powers remain open.

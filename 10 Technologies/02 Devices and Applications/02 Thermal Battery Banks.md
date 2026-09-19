@@ -10,7 +10,7 @@
 
 ## Intended Use
 
-This document owns the operational concept of shipboard thermal storage. Broader heat-rejection principles should receive their own [[01 Technologies/00 Technology Guide and Catalogue#Key Concepts|Key Concepts]] reference when their physics and ship-scale constraints are defined.
+This document owns the operational concept of shipboard thermal storage. Broader heat-rejection principles should receive their own [[10 Technologies/00 Technology Guide and Catalogue#Key Concepts|Key Concepts]] reference when their physics and ship-scale constraints are defined.
 
 ## Current Foundation
 
@@ -24,7 +24,7 @@ Their displayed percentage should refer to the fraction of safe heat-storage cap
 - Thermal storage is finite. A ship can survive a short peak load by charging its banks, but must later radiate, transfer, or otherwise dispose of the stored heat.
 - An ejected bank removes a dangerous heat load but creates recoverable material, navigational debris, and a detectable thermal signature.
 - Deliberately rupturing or destroying an ejected bank may conceal or deny it to others, but can make an even more conspicuous transient signature.
-- The safety implications of a fully charged bank depend on its storage method, containment design, and surroundings; it should not be treated as a generic explosive without a defined mechanism.
+- The safety implications of a fully charged bank depend on its storage method, containment design, and surroundings. It should not be treated as a generic explosive without a defined mechanism.
 
 ## Open Design Questions
 

@@ -6,7 +6,7 @@
 
 ## Intended Use
 
-This document separates generic hard-SF engineering from technology that is distinctive to *Human Endeavour*, and from speculative capabilities that remain unachieved in the setting. It is an organisational tool: a technology's category records both what kind of science it needs and whether its particular implementation is a setting-specific design.
+This document separates generic hard-SF engineering from technology that is distinctive to *Human Endeavour*, and from speculative capabilities that remain unachieved in the setting. It is an organizational tool: a technology's category records both what kind of science it needs and whether its particular implementation is a setting-specific design.
 
 The catalogue is a source of future candidates, not a claim that every entry is common, economical, or presently deployed. A detailed reference document is created only when an entry receives a defined setting role, operating limits, and consequences.
 
@@ -14,22 +14,22 @@ The catalogue is a source of future candidates, not a claim that every entry is 
 
 ### Key Concepts
 
-Broad physical principles, travel constraints, and infrastructure systems belong in `01 Key Concepts`. A concept may underpin several devices; its mechanisms should not be repeated in each application.
+Broad physical principles, travel constraints, and infrastructure systems belong in `01 Key Concepts`. A concept may underpin several devices. Its mechanisms should not be repeated in each application.
 
 | Topic | Current authorial status | Reference |
 | --- | --- | --- |
-| Spacetime-engineering family and FTL boundaries | Exploring; approval required | [[01 Technologies/01 Key Concepts/01 Spacetime Engineering\|Spacetime Engineering]] |
-| Local gravity, field load, and structural reactions | Exploring; approval required | [[01 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating\|Metric-Gradient Gravity Plating]] |
-| Selected travel classes and route access | Approved numerical baseline; mechanism details open | [[01 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access\|Interstellar Travel and Route Access]] |
-| Beam propulsion, power, and bulk-resource corridors | Exploring; active setting direction | [[01 Technologies/01 Key Concepts/04 System-Scale Beam Arrays\|System-Scale Beam Arrays]] |
+| Spacetime-engineering family and FTL boundaries | Exploring; approval required | [[10 Technologies/01 Key Concepts/01 Spacetime Engineering\|Spacetime Engineering]] |
+| Local gravity, field load, and structural reactions | Exploring; approval required | [[10 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating\|Metric-Gradient Gravity Plating]] |
+| Selected travel classes and route access | Approved numerical baseline; mechanism details open | [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access\|Interstellar Travel and Route Access]] |
+| Beam propulsion, power, and bulk-resource corridors | Exploring; active setting direction | [[10 Technologies/01 Key Concepts/04 System-Scale Beam Arrays\|System-Scale Beam Arrays]] |
 
 ### Devices and Applications
 
 Named equipment, interfaces, operating terminology, and bounded use cases belong in `02 Devices and Applications`. Each reference owns its operation, limits, failure modes, and practical consequences.
 
-- [[01 Technologies/02 Devices and Applications/01 Phonetic Mapping and Semantic Translation|Phonetic Mapping and Semantic Translation]] — communication assistance and its limitations.
-- [[01 Technologies/02 Devices and Applications/02 Thermal Battery Banks|Thermal Battery Banks]] — finite heat storage and emergency operating choices.
-- [[01 Technologies/02 Devices and Applications/03 Emergency Vacuum Protection and Repair|Emergency Vacuum Protection and Repair]] — EVSS, respiratory interfaces, shrouds, VRW, and repair enclosures.
+- [[10 Technologies/02 Devices and Applications/01 Phonetic Mapping and Semantic Translation|Phonetic Mapping and Semantic Translation]]: communication assistance and its limitations.
+- [[10 Technologies/02 Devices and Applications/02 Thermal Battery Banks|Thermal Battery Banks]]: finite heat storage and emergency operating choices.
+- [[10 Technologies/02 Devices and Applications/03 Emergency Vacuum Protection and Repair|Emergency Vacuum Protection and Repair]]: EVSS, respiratory interfaces, shrouds, VRW, and repair enclosures.
 
 These device references contain current foundations and explicitly open implementation questions. Their inclusion here does not settle those questions.
 
@@ -48,10 +48,10 @@ Use two independent tags when recording a technology.
 
 | Tag | Values | Question answered |
 | --- | --- | --- |
-| **Physical basis** | Extrapolative engineering; setting-specific physics; physically plausible but unproven; theoretical-only | Does it require new science to work, and how well established is it? |
-| **Setting role** | Background tool; signature implementation; active design direction; undeployed research | How much bespoke setting work has it received, and may it solve present problems? |
+| **Physical basis** | Extrapolative engineering, setting-specific physics, physically plausible but unproven, theoretical-only | Does it require new science to work, and how well established is it? |
+| **Setting role** | Background tool, signature implementation, active design direction, undeployed research | How much bespoke setting work has it received, and may it solve present problems? |
 
-A conventional technology may still be a **signature implementation**. [[01 Technologies/02 Devices and Applications/02 Thermal Battery Banks|Thermal battery banks]], for example, rely on ordinary thermodynamics but have a deliberately setting-specific operational role, interface, and failure culture. Conversely, a technology may be physically plausible but remain unproven or uneconomical because the setting cannot make it operationally useful.
+A conventional technology may still be a **signature implementation**. [[10 Technologies/02 Devices and Applications/02 Thermal Battery Banks|Thermal battery banks]], for example, rely on ordinary thermodynamics but have a deliberately setting-specific operational role, interface, and failure culture. Conversely, a technology may be physically plausible but remain unproven or uneconomical because the setting cannot make it operationally useful.
 
 ## Extrapolative Engineering
 
@@ -62,7 +62,7 @@ These technologies extend known physics and engineering. They may demand very ad
 - Rotating habitats: wheels, tori, cylinders, Bernal spheres, and asteroid habitats.
 - Tether-spin arrangements for ships, cargo pairs, and temporary habitats.
 - Non-rotating docking hubs, centrifuge medical facilities, and variable-gravity rehabilitation.
-- Water, ice, regolith, and waste-mass radiation shielding; Whipple shielding; compartmentalised and self-sealing hulls.
+- Water, ice, regolith, and waste-mass radiation shielding; Whipple shielding; compartmentalized and self-sealing hulls.
 - Closed-loop water, air, nutrient, waste, and microbiome systems; farms, algae or fungal staples, and bioreactors.
 
 ### Transport, logistics, and corridor infrastructure
@@ -71,13 +71,13 @@ These technologies extend known physics and engineering. They may demand very ad
 - Mass drivers, momentum-exchange tethers, skyhooks, orbital transfer systems, cyclers, and propellant depots.
 - Standard containers, docking collars, repair interfaces, rescue ports, traffic beacons, and autonomous navigation systems.
 - Laser communications, physical data couriers, authenticated archives, probes, and distributed sensor systems.
-- [[01 Technologies/01 Key Concepts/04 System-Scale Beam Arrays|System-scale beam arrays]], an active setting direction for intra-system transport, slow interstellar resource packets without onboard FTL equipment, and fixed-route propulsion or power transfer.
+- [[10 Technologies/01 Key Concepts/04 System-Scale Beam Arrays|System-scale beam arrays]], an active setting direction for intra-system transport, slow interstellar resource packets without onboard FTL equipment, and fixed-route propulsion or power transfer.
 
 #### Surface-to-orbit access
 
 Space elevators are mature but selective extrapolative infrastructure. In practice, they are concentrated on **low-gravity worlds with thin or negligible atmospheres**, where tether strength, anchor loads, weather, atmospheric drag, and debris risk are favourable. Such an elevator can make a particular settlement or industrial region a consequential logistics node, but it is not the default route to orbit.
 
-On most substantial atmosphered or high-gravity worlds, **skyhooks, rotovators, momentum-exchange tethers, mass drivers, launch loops, and—at exceptional scale—orbital rings** are preferable. They can offer higher throughput, less dependence on one planet-spanning tether, more flexible terminal locations, or better tolerance of a hostile atmosphere and local debris environment. A full classical elevator on such a world is an unusual prestige project with demanding materials, active stabilisation, weather and debris management, exclusion zones, inspection, and political protection.
+On most substantial atmosphered or high-gravity worlds, **skyhooks, rotovators, momentum-exchange tethers, mass drivers, launch loops, and, at exceptional scale, orbital rings** are preferable. They can offer higher throughput, less dependence on one planet-spanning tether, more flexible terminal locations, or better tolerance of a hostile atmosphere and local debris environment. A full classical elevator on such a world is an unusual prestige project with demanding materials, active stabilization, weather and debris management, exclusion zones, inspection, and political protection.
 
 ### Industry, energy, and material systems
 
@@ -97,21 +97,21 @@ This category contains capabilities that require the setting's novel, unified sp
 
 | Capability                      | Current role                                                                                                                 | Owning reference |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| Metric-gradient gravity plating | Active setting concept; ordinary aboard major vessels but limited by field load, structure, power, maintenance, and failure. | [[01 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating\|Metric-Gradient Gravity Plating]] |
-| Inertial management             | Candidate application; its scale, limits, and relation to vessel acceleration remain open.                                   | [[01 Technologies/01 Key Concepts/01 Spacetime Engineering\|Spacetime Engineering]] |
-| FTL travel                      | Established setting axiom; mechanism, limits, and economic implications remain open.                                         | [[01 Technologies/01 Key Concepts/01 Spacetime Engineering\|Spacetime Engineering]] |
-| FTL communications              | Unselected candidate. It must not be assumed merely because FTL travel exists.                                               | [[01 Technologies/01 Key Concepts/01 Spacetime Engineering\|Spacetime Engineering]] |
+| Metric-gradient gravity plating | Active setting concept. Ordinary aboard major vessels but limited by field load, structure, power, maintenance, and failure. | [[10 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating\|Metric-Gradient Gravity Plating]] |
+| Inertial management             | Candidate application. Its scale, limits, and relation to vessel acceleration remain open.                                   | [[10 Technologies/01 Key Concepts/01 Spacetime Engineering\|Spacetime Engineering]] |
+| FTL travel                      | Established setting axiom. Mechanism, limits, and economic implications remain open.                                         | [[10 Technologies/01 Key Concepts/01 Spacetime Engineering\|Spacetime Engineering]] |
+| FTL communications              | Unselected candidate. It must not be assumed merely because FTL travel exists.                                               | [[10 Technologies/01 Key Concepts/01 Spacetime Engineering\|Spacetime Engineering]] |
 
 Gravity plating is not a reason to omit rotational gravity. Rotation is an extrapolative, often cheaper and more resilient alternative, while plating enables non-rotating work and habitation spaces where its costs are justified.
 
-## Rare Realised Megastructures
+## Rare Realized Megastructures
 
-These are fully realised extrapolative-engineering projects, but only around exceptionally old, prosperous, capable systems. They are not standard infrastructure and remain politically, economically, and culturally defining.
+These are fully realized extrapolative-engineering projects, but only around exceptionally old, prosperous, capable systems. They are not standard infrastructure and remain politically, economically, and culturally defining.
 
 | Technology               | Setting status and constraint                                                                                                                                                                                                                                                                                     |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Orbital rings**        | Present around a small number of very old and wealthy worlds, including Gaia itself. Their active support, traffic management, repair burden, power demand, and large exclusion zones make them system-scale institutions rather than passive monuments.                                                          |
-| **Partial Dyson swarms** | Present in selected mature core systems as decentralised clouds of solar collectors, industry, habitats, and heat-rejection infrastructure. They grow incrementally and naturally over long periods. Understandably, they are not rigid shells, complete stellar enclosures, or automatic post-scarcity machines. |
+| **Partial Dyson swarms** | Present in selected mature core systems as decentralized clouds of solar collectors, industry, habitats, and heat-rejection infrastructure. They grow incrementally and naturally over long periods. They are not rigid shells, complete stellar enclosures, or automatic post-scarcity machines. |
 
 ## Physically Plausible but Unproven or Uneconomical Technologies
 
@@ -121,7 +121,7 @@ These concepts obey, or plausibly might obey, known physics, but the setting has
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Antimatter bulk fuel economy                                               | Real physics, but production, containment, conversion efficiency, and cost keep it non-routine.                                        |
 | Black-hole drives or power plants                                          | Plausible in principle but beyond ordinary industrial capability. Theoretical or exceptional research only.                            |
-| Mature self-replicating industry / unrestricted von Neumann probes         | Technically and politically unresolved. Not a general civilisational assumption.                                                       |
+| Mature self-replicating industry / unrestricted von Neumann probes         | Technically and politically unresolved. Not a general civilizational assumption.                                                       |
 | Reliable long-duration cryonics or full suspended animation                | Possible research direction, not a default answer to interstellar time. May later be adopted into the setting more heavily if desired. |
 | Molecular nanotechnology, utility fog, or universally capable smart matter | Plausible aspiration. Do not use it as frictionless fabrication.                                                                       |
 | Starlifting, stellar engines, or topopolis-scale habitats                  | Potentially physically possible but unproven at the required scale. Not established infrastructure.                                    |

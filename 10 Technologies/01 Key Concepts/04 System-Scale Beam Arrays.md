@@ -22,19 +22,19 @@ Beam arrays do not erase distance. They are fixed, directional, capital-intensiv
 
 ## Coexistence with FTL Corridors
 
-Beam corridors still remain useful even once FTL becomes readily available. FTL service is the preferred option for people, urgent cargo, complex vessels, and high-value traffic where its specialised onboard equipment and route access are justified. Beam arrays instead retain several durable niches:
+Beam corridors still remain useful even once FTL becomes readily available. FTL service is the preferred option for people, urgent cargo, complex vessels, and high-value traffic where its specialized onboard equipment and route access are justified. Beam arrays instead retain several durable niches:
 
 - **Intra-system transport:** moving ore, water, shield mass, construction material, and slow freight between mines, habitats, depots, and industrial orbits without expending onboard reaction mass.
 - **Slow interstellar resource lanes:** launching robust, uncrewed **resource packets** along paired or staged beam routes. These packets carry low-value-per-kilogram bulk cargo over decade- to century-long schedules and need no onboard FTL installation.
 - **Power and momentum services:** supporting sails, tugs, probes, and local industry where a full FTL voyage would be excessive or uneconomical.
 
-The result is a layered corridor economy rather than complete technological replacement. An FTL corridor may carry travellers, specialised parts, information couriers, and emergency response, while a parallel beam lane carries slow bulk flows between the same or neighbouring systems. A beam lane's cheap payload hardware and fixed infrastructure trade against long transit time, rigid scheduling, limited manoeuvrability, and the need for safe acceleration and braking terminals.
+The result is a layered corridor economy rather than complete technological replacement. An FTL corridor may carry travellers, specialized parts, information couriers, and emergency response, while a parallel beam lane carries slow bulk flows between the same or neighbouring systems. A beam lane's cheap payload hardware and fixed infrastructure trade against long transit time, rigid scheduling, limited manoeuvrability, and the need for safe acceleration and braking terminals.
 
 ## Historical and Spatial Consequences
 
 - Early arrays can support rare, ambitious high-speed foundation voyages without making such performance routine. They are a strong candidate explanation for the selected `0.1c` first-order foundations, but that historical link is not yet required canon.
 - Array-linked routes encourage corridor settlement. Midway systems, relay stations, and useful junctions gain value as service, transfer, repair, and habitation sites.
-- A network grows through reinforcement: traffic justifies support; support reduces risk and cost; reduced risk and cost attract more traffic. This anticipates the later root-like corridor web without presuming that FTL uses the same mechanism.
+- A network grows through reinforcement: traffic justifies support. Support reduces risk and cost. Reduced risk and cost attract more traffic. This anticipates the later root-like corridor web without presuming that FTL uses the same mechanism.
 - Direct array corridors toward an unusually valuable destination are rare directed megaprojects. They can cut across the ordinary, incremental pattern of settlement.
 - The pre-FTL route legacy helps explain why FTL reconnection strengthens particular historical trunks instead of generating a uniform radial map, while the beam networks themselves continue as a lower-speed infrastructure layer.
 
@@ -42,7 +42,7 @@ The result is a layered corridor economy rather than complete technological repl
 
 - Beaming installations require large power sources, substantial cooling and radiator capacity, accurate tracking, clear safety procedures, and sustained specialist maintenance.
 - A vessel needs a compatible sail or receiver and enough shielding, heat handling, and navigation accuracy to accept the beam safely.
-- Acceleration, braking, and route access are distinct services; a departure beam alone does not create a convenient two-way connection.
+- Acceleration, braking, and route access are distinct services. A departure beam alone does not create a convenient two-way connection.
 - High energy density makes beam paths regulated, scheduled, and potentially hazardous to nearby craft, habitats, and sensors.
 - The exact propulsion medium, useful range, terminal geometry, throughput, cost, and relationship to FTL corridors remain open. Do not infer a specific FTL mechanism from the existence of beam arrays.
 

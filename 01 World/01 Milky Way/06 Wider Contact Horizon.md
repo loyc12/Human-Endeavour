@@ -8,23 +8,23 @@
 
 ## Purpose
 
-This document distinguishes the first fully contacted independently spacefaring near-peer from the wider field of independent life and society. It establishes only the contact horizon needed to constrain Milky Way demographics, ethics, and political memory; it does not catalogue species or frontier worlds.
+This document distinguishes the first fully contacted independently spacefaring near-peer from the wider field of independent life and society. It establishes only the contact horizon needed to constrain Milky Way demographics, ethics, and political memory. It does not catalogue species or frontier worlds.
 
 ## Selected Contact Horizon
 
 ### The fully contacted near-peer
 
-The [[02 World/01 Milky Way/05 Independent Near-Peer Civilisation|independent near-peer civilisation]] is the only independently spacefaring civilisation met in sustained reciprocal contact. That reference owns its pre-contact capabilities, encounter, diaspora, and continuing polities. Its presence is part of ordinary Core life, since the other societies and detections below do not yet have comparable cultural or institutional presence.
+The [[05 Independent Near-Peer Civilisation|independent near-peer civilisation]] is the only independently spacefaring civilization met in sustained reciprocal contact. That reference owns its pre-contact capabilities, encounter, diaspora, and continuing polities. Its presence is part of ordinary Core life, since the other societies and detections below do not yet have comparable cultural or institutional presence.
 
 ### Other independent societies
 
-Independent non-spacefaring societies are rare but become more frequently encountered as FTL-era exploration reaches a much larger and more varied frontier than the old human diaspora. They may include mobile foraging societies, urban or state societies using durable low-energy technologies, worlds whose institutions or ecology impede industrial takeoff, and societies recovering from earlier collapse. These descriptions identify historical and material conditions, not permanent civilisational ranks or biological destinies.
+Independent non-spacefaring societies are rare but become more frequently encountered as FTL-era exploration reaches a much larger and more varied frontier than the old human diaspora. They may include mobile foraging societies, urban or state societies using durable low-energy technologies, worlds whose institutions or ecology impede industrial takeoff, and societies recovering from earlier collapse. These descriptions identify historical and material conditions, not permanent civilizational ranks or biological destinies.
 
 Such societies are not automatically candidates for intervention, technological transfer, uplift, or political incorporation. Their ability to understand contact, make collective decisions, refuse access, and determine their own pace is a central ethical and political question. The detailed law and practice remain open.
 
 ### Recent remote evidence
 
-In the last few decades, remote frontier surveys have produced evidence or very limited contact suggesting that further independent technological societies may exist. These cases are distant, poorly understood, and not yet connected by sustained migration, diplomacy, or common institutions. They do not displace the gas-giant-moon civilisation as the only fully contacted independently spacefaring near-peer in the cultural experience of the Core.
+In the last few decades, remote frontier surveys have produced evidence or very limited contact suggesting that further independent technological societies may exist. These cases are distant, poorly understood, and not yet connected by sustained migration, diplomacy, or common institutions. They do not displace the gas-giant-moon civilization as the only fully contacted independently spacefaring near-peer in the cultural experience of the Core.
 
 ## Consequences
 

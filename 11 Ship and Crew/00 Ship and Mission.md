@@ -10,14 +10,14 @@ The story's vessel is a governmental pilot programme testing whether a large, lo
 
 - The programme is sponsored by a [[00 Core/04 Terminology|human-led coalition]] with significant participation from non-human polities. The coalition's final name and constitutional structure remain open.
 - The programme is controversial, but small enough in cost and political scope that its supporters can sustain it. Its design is imperfect rather than intentionally supremacist: human requirements are the most tested, most common among the crew, and best represented among its builders, so conflicting requirements often resolve to a human default with auxiliary accommodations.
-- The crew includes baseline humans, heavily modified human descendants, biological-cybernetic people, rare synthetic intelligences, and uplifted species. An interspecies vessel is one that can safely sustain people whose bodily and environmental needs cannot be met by a human-default habitat; see [[00 Core/04 Terminology|Terminology]].
+- The crew includes baseline humans, heavily modified human descendants, biological-cybernetic people, rare synthetic intelligences, and uplifted species. An interspecies vessel is one that can safely sustain people whose bodily and environmental needs cannot be met by a human-default habitat. See [[00 Core/04 Terminology|Terminology]].
 - The mission combines civilian and enlisted personnel. Long, normally low-risk voyages require substantial civilian-like work as well as safety and defensive capability. Vetted familial and clan relations are therefore permitted aboard.
 
 ## Working Vessel and Crew
 
-[[03 Ship and Crew/01 Vessel, Crew, and Emergency Organisation|Vessel, Crew, and Emergency Organisation]] collects the candidate dimensions, complement, casualty and accommodation figures, command situation, and surviving civic offices. Those draft details remain exploratory and require approval; this programme description does not settle them.
+[[01 Vessel, Crew, and Emergency Organisation|Vessel, Crew, and Emergency Organisation]] collects the candidate dimensions, complement, casualty and accommodation figures, command situation, and surviving civic offices. Those draft details remain exploratory and require approval. This programme description does not settle them.
 
-[[04 Narrative/01 Narrative Foundation|Narrative Foundation]] records the command and lower-deck viewpoint preferences. [[04 Narrative/02 Character and Relationship Seeds|Character and Relationship Seeds]] preserves candidate identities and relationships, and [[04 Narrative/03 Opening and Recovery Arc|Opening and Recovery Arc]] develops the dramatic sequence.
+[[80 Narrative/01 Narrative Foundation|Narrative Foundation]] records the command and lower-deck viewpoint preferences. [[80 Narrative/02 Character and Relationship Seeds|Character and Relationship Seeds]] preserves candidate identities and relationships, and [[80 Narrative/03 Opening and Recovery Arc|Opening and Recovery Arc]] develops the dramatic sequence.
 
 ## Open Programme Decisions
 

@@ -30,13 +30,13 @@ This can introduce the vessel's purpose and human-default compromises through a 
 
 Older drafts pair a capable senior captain with a conscientious but inexperienced junior officer. The senior's mentorship can make their later injury and death emotionally consequential while leaving the green first officer as the credible successor.
 
-The [[03 Ship and Crew/01 Vessel, Crew, and Emergency Organisation#Command Situation|working succession chain]] can coexist with this mentorship if the former captain had been actively mentoring Tomas before the anomaly and the candidate XO inherits an unexpectedly senior role. This is a compatibility option, not an approved appointment.
+The [[11 Ship and Crew/01 Vessel, Crew, and Emergency Organisation#Command Situation|working succession chain]] can coexist with this mentorship if the former captain had been actively mentoring Tomas before the anomaly and the candidate XO inherits an unexpectedly senior role. This is a compatibility option, not an approved appointment.
 
 ## Early Arc: Restore a Community
 
 1. The spatial disturbance overwhelms navigation, damage control, and ordinary command routines.
 2. The surviving command team escapes, hides, triages casualties, limits heat production, and preserves a viable structural core.
-3. Senior staff establish emergency authority, publish a truthful but stabilising statement, and reorganise shifts, accommodation, training, and care.
+3. Senior staff establish emergency authority, publish a truthful but stabilizing statement, and reorganize shifts, accommodation, training, and care.
 4. The ship becomes physically safer but remains socially exhausted: shortages, bereavement, lost expertise, overcrowding, and doubts about interim leadership persist.
 5. The crew must choose whether to risk controlled scavenging, reconnaissance, or contact while still vulnerable.
 
@@ -52,6 +52,6 @@ The point of the early arc is not simply that repairs advance. The intended mult
 
 ## Character and Relationship Dependencies
 
-[[04 Narrative/02 Character and Relationship Seeds|Character and Relationship Seeds]] owns the inherited emotional material and its consent, support, housing, and chain-of-command boundaries. Preserve those constraints when developing scenes.
+[[02 Character and Relationship Seeds|Character and Relationship Seeds]] owns the inherited emotional material and its consent, support, housing, and chain-of-command boundaries. Preserve those constraints when developing scenes.
 
 Incompatible inherited political histories and the separate serf-escape premise are retained in [[99 Workshop/04 Unassigned Historical Alternatives|Unassigned Historical Alternatives]].

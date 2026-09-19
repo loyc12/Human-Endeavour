@@ -10,13 +10,13 @@
 
 ## Provenance and Use
 
-These fragments come from older HSC notes and the `FAR.md`, `Far Storyboard.md`, and `Datamai's Journey.md` material previously summarised in Historical and Character Seeds and Opening and Early Arc Seeds. They preserve potentially useful ideas, not imported canon. The older source documents are provenance names; they are not assumed to be present in this vault.
+These fragments come from older HSC notes and the `FAR.md`, `Far Storyboard.md`, and `Datamai's Journey.md` material previously summarized in Historical and Character Seeds and Opening and Early Arc Seeds. They preserve potentially useful ideas, not imported canon. The older source documents are provenance names. They are not assumed to be present in this vault.
 
-The approved [[02 World/01 Milky Way/01 Historical Timeline|timeline]], [[02 World/01 Milky Way/05 Independent Near-Peer Civilisation|near-peer contact history]], and [[02 World/01 Milky Way/06 Wider Contact Horizon|wider contact horizon]] supersede historical recapitulations in the old seed collection. Ship and character candidates now have their own topical homes.
+The approved [[01 World/01 Milky Way/01 Historical Timeline|timeline]], [[01 World/01 Milky Way/05 Independent Near-Peer Civilisation|near-peer contact history]], and [[01 World/01 Milky Way/06 Wider Contact Horizon|wider contact horizon]] supersede historical recapitulations in the old seed collection. Ship and character candidates now have their own topical homes.
 
 ## Political Possibilities from HSC Notes
 
-- The political centre is decentralised in many local matters but has stronger coordinating roles in security, science, and major economic infrastructure.
+- The political centre is decentralized in many local matters but has stronger coordinating roles in security, science, and major economic infrastructure.
 - Remote polities may have negotiated autonomy, dominion, or federation arrangements rather than being governed uniformly from a central core.
 
 ## Remaining Historical Questions

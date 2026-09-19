@@ -6,15 +6,15 @@
 
 **Scope: Numerical baseline selected; physical implementation and communications details remain open.**
 
-For the selected travel bands and ordinary lookup, start with [[01 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]]. For spatial results, see [[02 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]].
+For the selected travel bands and ordinary lookup, start with [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]]. For spatial results, see [[01 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]].
 
 ## Purpose
 
-This author-facing worksheet provides a common set of formulae for testing how travel capability produces—**or does not produce**—exploration, infrastructure, and settlement. It is deliberately independent of a selected FTL mechanism. Its purpose is to prevent a maximum cruise speed from silently becoming the scale of the civilisation.
+This author-facing worksheet provides a common set of formulae for testing how travel capability produces, **or does not produce**, exploration, infrastructure, and settlement. It is deliberately independent of a selected FTL mechanism. Its purpose is to prevent a maximum cruise speed from silently becoming the scale of the civilization.
 
-The default interpolation model is: **logistic growth** for a technology's general capability, **exponential maturation** for each newly commissioned route, and the **minimum of several bottlenecks** for exploration and settlement. It therefore represents a slow, expensive experimental period; a faster infrastructure-led takeoff; and a mature ceiling without assuming that population movement or colonisation accelerates at the same rate.
+The default interpolation model is: **logistic growth** for a technology's general capability, **exponential maturation** for each newly commissioned route, and the **minimum of several bottlenecks** for exploration and settlement. It therefore represents a slow, expensive experimental period, a faster infrastructure-led takeoff, and a mature ceiling without assuming that population movement or colonization accelerates at the same rate.
 
-Use it with [[01 Technologies/01 Key Concepts/01 Spacetime Engineering|Spacetime Engineering]] and [[99 Workshop/02 Milky Way Development Questions|Milky Way Development Questions]]. The equations describe planning models, not exact physical law or in-universe public knowledge.
+Use it with [[10 Technologies/01 Key Concepts/01 Spacetime Engineering|Spacetime Engineering]] and [[02 Milky Way Development Questions|Milky Way Development Questions]]. The equations describe planning models, not exact physical law or in-universe public knowledge.
 
 ## Units and Variables
 
@@ -58,7 +58,7 @@ $$
 v_x(t) = v_{x,\mathrm{start}} + \left(v_{x,\infty}-v_{x,\mathrm{start}}\right)\widetilde L(t;t_{50,x},w_{10-90,x})
 $$
 
-`v_x,start` is the usable capability at official FTL discovery (`t = 0`), and `v_x,∞` is the practical mature ceiling, not an inviolable physical limit. The normalisation makes the selected starting value exact. The `10--90` parameter is more intuitive than a raw steepness constant: a smaller value means a sharper technological revolution. When the nominal midpoint is well after discovery, it remains a close practical description of the midpoint of adoption.
+`v_x,start` is the usable capability at official FTL discovery (`t = 0`), and `v_x,∞` is the practical mature ceiling, not an inviolable physical limit. The normalization makes the selected starting value exact. The `10--90` parameter is more intuitive than a raw steepness constant: a smaller value means a sharper technological revolution. When the nominal midpoint is well after discovery, it remains a close practical description of the midpoint of adoption.
 
 Apply the curve separately to three raw capabilities:
 
@@ -66,16 +66,16 @@ $$
 v_{\mathrm{free}}(t), \qquad v^*_{\mathrm{lane}}(t), \qquad v^*_{\mathrm{max}}(t)
 $$
 
-The free-flight curve should take off earliest and level off at the lowest speed. Mature-corridor capability follows later and rises higher. The exceptional maximum should be latest, steepest, and highest; it represents specialist vessels on exceptionally good routes, not a speed every ship can use. Apply the physical ordering explicitly:
+The free-flight curve should take off earliest and level off at the lowest speed. Mature-corridor capability follows later and rises higher. The exceptional maximum should be latest, steepest, and highest. It represents specialist vessels on exceptionally good routes, not a speed every ship can use. Apply the physical ordering explicitly:
 
 $$
 v^*_{\mathrm{lane}}(t) = \max\left(v_{\mathrm{free}}(t),v_{\mathrm{lane,raw}}(t)\right), \qquad
 v^*_{\mathrm{max}}(t) = \max\left(v^*_{\mathrm{lane}}(t),v_{\mathrm{max,raw}}(t)\right)
 $$
 
-This means that early in the express curve's development, the best available service is simply the ordinary mature-corridor service; the special express premium emerges only later.
+This means that early in the express curve's development, the best available service is simply the ordinary mature-corridor service. The special express premium emerges only later.
 
-This is the recommended historical shape for the setting: early FTL can cross `1c` without making broad reconnection cheap or rapid; routine high-speed travel arrives only after technology, route construction, and operating institutions have all matured.
+This is the recommended historical shape for the setting: early FTL can cross `1c` without making broad reconnection cheap or rapid. Routine high-speed travel arrives only after technology, route construction, and operating institutions have all matured.
 
 ### Route maturation and service class
 
@@ -103,7 +103,7 @@ v_{\mathrm{ordinary}}
 \right)^{H I^\gamma}
 $$
 
-`\gamma` controls how strongly exceptional service depends on route quality. A value near `1` is a moderate requirement; a value near `2` makes near-perfect infrastructure necessary for the highest speeds. Thus a ship with advanced hardware falls back toward `v_free` on an unprepared route, while a mature corridor may support a routine `v_lane` service and, rarely, a 500c express service.
+`\gamma` controls how strongly exceptional service depends on route quality. A value near `1` is a moderate requirement. A value near `2` makes near-perfect infrastructure necessary for the highest speeds. Thus a ship with advanced hardware falls back toward `v_free` on an unprepared route, while a mature corridor may support a routine `v_lane` service and, rarely, a 500c express service.
 
 The former static interpolation is a special case of this model: use the current `I` for a route and set `H = 0` for ordinary service.
 
@@ -125,7 +125,7 @@ The overhead terms are how infrastructure retains importance even when headline 
 
 ### Selected balanced-model parameters
 
-The time origin is FTL discovery at 260 BCD. The values below use the logistic interpolation defined above; `t_50` and `w_10-90` are years after discovery.
+The time origin is FTL discovery at 260 BCD. The values below use the logistic interpolation defined above. `t_50` and `w_10-90` are years after discovery.
 
 | Capability or constraint | Discovery-date value | Mature ceiling | `t_50` | `w_10-90` or `\tau` |
 | --- | ---: | ---: | ---: | ---: |
@@ -140,7 +140,7 @@ The time origin is FTL discovery at 260 BCD. The values below use the logistic i
 
 The settlement-choice ceiling represents `\ell_choice/(t_decision + t_build + t_support)` and is still limited by exploration and infrastructure. It therefore does not imply that a ship's cruise capability becomes a settlement-front capability.
 
-With an 8,000-year history, 260 years of FTL, and a 0.05c pre-FTL average frontier rate, this parameter set produces the [[02 World/01 Milky Way/03 Regions and Connectivity#Selected Characteristic Extents|selected characteristic extents]]. The present travel classes and the historical 90c corridor benchmark are summarised in [[01 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]].
+With an 8,000-year history, 260 years of FTL, and a 0.05c pre-FTL average frontier rate, this parameter set produces the [[01 World/01 Milky Way/03 Regions and Connectivity#Selected Characteristic Extents|selected characteristic extents]]. The present travel classes and the historical 90c corridor benchmark are summarized in [[10 Technologies/01 Key Concepts/03 Interstellar Travel and Route Access|Interstellar Travel and Route Access]].
 
 ## 2. Local-System Travel
 
@@ -155,7 +155,7 @@ d/v_{\mathrm{cap}} + v_{\mathrm{cap}}/a, & d > v_{\mathrm{cap}}^2/a
 + t_{\mathrm{traffic}} + t_{\mathrm{dock}}
 $$
 
-The first case is a continuous accelerate-and-brake journey; the second includes a cruising phase. Local infrastructure can lower `t_traffic` and `t_dock`, permit higher safe `v_cap`, provide refuelling or tugs, and make certain orbits practically central. It does not need to make every point in a system equally convenient.
+The first case is a continuous accelerate-and-brake journey. The second includes a cruising phase. Local infrastructure can lower `t_traffic` and `t_dock`, permit higher safe `v_cap`, provide refuelling or tugs, and make certain orbits practically central. It does not need to make every point in a system equally convenient.
 
 ## 3. Infrastructure Growth
 
@@ -167,7 +167,7 @@ $$
 
 Where installation can be approximated as either a fixed project duration or `t_install(D) = D/b`, with `b` as the rate at which a construction programme can extend and support a lane.
 
-Infrastructure construction also improves over history, but normally later and more slowly than bare drive capability. Use another logistic curve for the rate at which a civilisation can extend *maintained* route support:
+Infrastructure construction also improves over history, but normally later and more slowly than bare drive capability. Use another logistic curve for the rate at which a civilization can extend *maintained* route support:
 
 $$
 v_{\mathrm{infra}}(t) = v_{\mathrm{infra},\mathrm{start}} +
@@ -197,7 +197,7 @@ $$
 \Lambda_{\mathrm{survey}} \approx \frac{F\,u}{T_{\mathrm{target}}}
 $$
 
-where `u` is the utilisation fraction after repairs, safety margins, competing duties, and losses. This is usually more useful than assuming every reachable star has been examined.
+where `u` is the utilization fraction after repairs, safety margins, competing duties, and losses. This is usually more useful than assuming every reachable star has been examined.
 
 Exploration speed is not the current bare cruise speed. It is the rate at which a programme can select, reach, investigate, validate, and record progressively more distant targets. Model its technological ceiling as a fraction of free-flight capability:
 
@@ -214,7 +214,7 @@ v_{\mathrm{exp,tech}}(t),
 \right)
 $$
 
-`\ell_survey` is the typical outward step between validated targets. `F_effective` is the number of genuinely available survey assets, after accounting for geography and competing work; it need not equal the total fleet.
+`\ell_survey` is the typical outward step between validated targets. `F_effective` is the number of genuinely available survey assets, after accounting for geography and competing work. It need not equal the total fleet.
 
 Along a deliberately maintained exploration corridor:
 
@@ -222,7 +222,7 @@ $$
 R_{\mathrm{explored}}(t) = R_0 + \int_0^t v_{\mathrm{exp}}(u)\,du
 $$
 
-This produces a *spoke*, route, or selected set of targets—not a filled sphere. To estimate the number of candidate systems actually surveyed, multiply the broad geometric volume by a coverage fraction `f_cov`:
+This produces a *spoke*, route, or selected set of targets rather than a filled sphere. To estimate the number of candidate systems actually surveyed, multiply the broad geometric volume by a coverage fraction `f_cov`:
 
 $$
 N_{\mathrm{surveyed}} \approx f_{\mathrm{cov}}\,n_\star\,V(R)
@@ -271,7 +271,7 @@ $$
 D_j = \left|\mathbf{x}_{\mathrm{target},j} - \mathbf{x}_{\mathrm{origin},j}\right|
 $$
 
-For the main civilisation, use a median or 90th-percentile radius of active settlements rather than the most distant outlier:
+For the main civilization, use a median or 90th-percentile radius of active settlements rather than the most distant outlier:
 
 $$
 R_{50},R_{90} = Q_{50},Q_{90}\left(\left|\mathbf{x}_{\mathrm{settlement}}-\mathbf{x}_{\mathrm{Earth}}\right|\right)
@@ -281,7 +281,7 @@ An isolated prestige mission can be very far away without redefining the scale o
 
 ## 6. Calculation Method and Timeline Worksheet
 
-For a selected historical span, evaluate the time-varying functions in small equal steps—one year is normally adequate for this setting—and use midpoint integration:
+For a selected historical span, evaluate the time-varying functions in small equal steps (one year is normally adequate for this setting) and use midpoint integration:
 
 $$
 R(t+\Delta t) \approx R(t) + v\left(t+\frac{\Delta t}{2}\right)\Delta t
@@ -300,14 +300,14 @@ For each historical period, record the logistic and social parameters rather tha
 | `I(a_route)` | 0 | 1 |  | `\tau_route` | Maturation of each commissioned route |
 | `\ell_choice/(t_decision+t_build+t_support)` |  |  |  |  | Settlement appetite and support bottleneck |
 
-The selected balanced model uses a long 0.05c sublight era; FTL discovery with a low `v_free` floor; a deliberately delayed `v_lane` takeoff; a still later, steeper `v_max` curve toward 500c; and a settlement bottleneck that remains far below cruise capability. Its parameters are recorded above; [[02 World/01 Milky Way/01 Historical Timeline|Historical Timeline]] owns chronology and [[02 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]] owns the spatial interpretation.
+The selected balanced model uses a long 0.05c sublight era; FTL discovery with a low `v_free` floor; a deliberately delayed `v_lane` takeoff; a still later, steeper `v_max` curve toward 500c; and a settlement bottleneck that remains far below cruise capability. Its parameters are recorded above; [[01 World/01 Milky Way/01 Historical Timeline|Historical Timeline]] owns chronology and [[01 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]] owns the spatial interpretation.
 
 ## Interpretation Rules
 
 - A maximum speed is an engineering capability. It does not establish a normal route, a migration flow, or a political frontier.
 - Technology can improve smoothly while history does not. Use logistic capability curves by default, route-age maturation for individual connections, and explicit parameter changes for wars, discoveries, regulation, or demographic shifts.
 - A route can be fast for people but slow for bulk mass, dangerous goods, large habitats, or emergency repair.
-- Exploration can outrun settlement; settlement can outrun political integration; communication can differ from both.
+- Exploration can outrun settlement. Settlement can outrun political integration. Communication can differ from both.
 - Route infrastructure creates hubs, dependencies, chokepoints, maintenance occupations, unequal access, and reasons the true core remains important even when travel is rapid.
-- A settlement map should show dense clusters, maintained corridors, midway settlements, sparse projects, and imperfectly surveyed directions—not only distance rings. See [[02 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]] for the selected non-mechanical topology.
-- Preserve the approved numerical baseline while the FTL mechanism remains open. Select the remaining mechanism-dependent values when range, navigation, energy, cooldown, and failure behaviour are defined; revisit an approved value only if the selected mechanism or a direct narrative requirement cannot support it. Test the result against the crew's expectations and the multigenerational Andromeda return problem.
+- A settlement map should show dense clusters, maintained corridors, midway settlements, sparse projects, and imperfectly surveyed directions, rather than only distance rings. See [[01 World/01 Milky Way/03 Regions and Connectivity|Regions and Connectivity]] for the selected non-mechanical topology.
+- Preserve the approved numerical baseline while the FTL mechanism remains open. Select the remaining mechanism-dependent values when range, navigation, energy, cooldown, and failure behaviour are defined. Revisit an approved value only if the selected mechanism or a direct narrative requirement cannot support it. Test the result against the crew's expectations and the multigenerational Andromeda return problem.

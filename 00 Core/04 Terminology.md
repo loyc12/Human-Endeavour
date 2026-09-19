@@ -12,7 +12,7 @@ This file records author-facing working meanings for terms that can easily becom
 
 ## Sapient Species / Sapiens
 
-An umbrella category for peoples capable of personhood, complex social life, and participation in civilisation. It includes baseline humans, modified human descendants, biological-cybernetic people, synthetic intelligences, Earth-born and alien-based uplifted species, and any other equivalent found in alien civilisations.
+An umbrella category for peoples capable of personhood, complex social life, and participation in civilization. It includes baseline humans, modified human descendants, biological-cybernetic people, synthetic intelligences, Earth-born and alien-based uplifted species, and any other equivalent found in alien civilizations.
 
 The exact legal and scientific criteria, and the status of borderline cases, remain open.
 
@@ -28,13 +28,13 @@ A human whose biology remains close to the historical, pre-space-faring norm. Th
 
 ## Uplift
 
-The technological, biological, educational, and social process through which a non-human species gains or is enabled to gain capabilities associated with interstellar civilisation. It is not automatically benevolent: consent, dependency, autonomy, legal status, and the right to refuse intervention are all consequential questions.
+The technological, biological, educational, and social process through which a non-human species gains or is enabled to gain capabilities associated with interstellar civilization. It is not automatically benevolent: consent, dependency, autonomy, legal status, and the right to refuse intervention are all consequential questions.
 
 ## Independent Technological History
 
-A species or civilisation whose technological development did not originate in human intervention. Later technological transfer, integration, or chosen adaptation does not retrospectively make that civilisation an uplift project.
+A species or civilization whose technological development did not originate in human intervention. Later technological transfer, integration, or chosen adaptation does not retrospectively make that civilization an uplift project.
 
-The [[02 World/01 Milky Way/05 Independent Near-Peer Civilisation|fully contacted near-peer]] file owns the particular contact history. Other independent societies and remote evidence are described in [[02 World/01 Milky Way/06 Wider Contact Horizon|Wider Contact Horizon]].
+The [[01 World/01 Milky Way/05 Independent Near-Peer Civilisation|fully contacted near-peer]] file owns the particular contact history. Other independent societies and remote evidence are described in [[01 World/01 Milky Way/06 Wider Contact Horizon|Wider Contact Horizon]].
 
 ## Interspecies Vessel
 
@@ -52,7 +52,7 @@ Human-default design can still impose unequal inconvenience, cost, or risk. It i
 
 ## Related Technical Vocabulary
 
-[[02 World/01 Milky Way/03 Regions and Connectivity#Connectivity Vocabulary|Regions and Connectivity]] owns mapped, reachable, settled, and integrated space. [[01 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating|Gravity Plating]] owns field load and metric-gradient emitters.
+[[01 World/01 Milky Way/03 Regions and Connectivity#Connectivity Vocabulary|Regions and Connectivity]] owns mapped, reachable, settled, and integrated space. [[10 Technologies/01 Key Concepts/02 Metric-Gradient Gravity Plating|Gravity Plating]] owns field load and metric-gradient emitters.
 
 ## Candidate Shipboard Vocabulary
 
