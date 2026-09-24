@@ -18,4 +18,4 @@ Its relation to a small star, rogue planetoid, or ordinary interstellar space, i
 
 When this topic resumes, first determine whether the field is gravitationally bound, transient, or engineered, then establish exit velocity, debris age and provenance, discovery history, and the economic reasons for scavenging. The endpoint mechanism and scavenger economy must not be used to solve the ship's logistics while they remain deferred.
 
-The [[00 Core/01 Premise|premise]] owns the established displacement constraints. [[99 Workshop/00 Revision Priorities|Revision Priorities]] records the deferral. It is not an instruction to develop the region now.
+The [[00 Core/01 Premise|premise]] owns the established displacement constraints. [[99 Workshop/00 Current Work Context|Current Work Context]] records the deferral. It is not an instruction to develop the region now.

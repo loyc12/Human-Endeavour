@@ -26,4 +26,4 @@ The story's vessel is a governmental pilot programme testing whether a large, lo
 - The programme's intended duration and normal risk profile.
 - How civilian, enlisted, family, and clan relationships work in practice aboard the vessel.
 
-Use [[99 Workshop/00 Revision Priorities|Revision Priorities]] for the order of unresolved work.
+Use [[99 Workshop/00 Current Work Context|Current Work Context]] for the order of unresolved work.

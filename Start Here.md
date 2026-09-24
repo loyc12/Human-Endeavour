@@ -6,6 +6,8 @@
 
 A damaged interspecies pilot project vessel is stranded in Andromeda. Its people must sustain a community, build local relationships, and decide what a responsible route home could require.
 
+**Resume work:** [[99 Workshop/00 Current Work Context|Current Work Context]] records planned next steps and why, loose ends, and paused threads.
+
 ## Find What You Need
 
 | Question                                             | Start here                                                                                                                                                                                                    |
@@ -26,7 +28,6 @@ Status labels distinguish selected baselines from exploratory details.
 
 ## Working Tools
 
-- [[99 Workshop/00 Revision Priorities|Revision Priorities]]: active decisions and explicit deferrals.
 - [[Writing Style|Writing Style]]: local language and reference-voice guidance.
 - [[Documentation Conventions|Documentation Conventions]]: where to file material and how to maintain it.
 - [[99 Workshop/01 Development Method and Order|Development Method and Order]]: knowledge layers and dependency order.

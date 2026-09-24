@@ -144,4 +144,4 @@ For each organization, society, or polity, define:
 
 Build causes before outcomes and interactions before isolated factions. Let institutions, economic incentives, and accumulated history shape behaviour. Prefer conflicts of values, knowledge, incentives, and need over simplistic moral sorting. Important systems should connect to others through visible consequences, but not every possible implication requires documentation.
 
-[[00 Revision Priorities|Revision Priorities]] owns the current order of unresolved work and explicit deferrals. [[Documentation Conventions|Documentation Conventions]] owns filing, status, linking, and editing rules.
+[[00 Current Work Context|Current Work Context]] owns the current order of unresolved work, next steps and why, loose ends, and explicit deferrals. [[Documentation Conventions|Documentation Conventions]] owns filing, status, linking, and editing rules.

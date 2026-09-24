@@ -39,7 +39,7 @@ Coherence is a constraint rather than an instruction to exhaust every plausible 
 
 ## Open Foundations
 
-The active order of work and explicit deferrals are in [[99 Workshop/00 Revision Priorities|Revision Priorities]].
+The active order of work and explicit deferrals are in [[99 Workshop/00 Current Work Context|Current Work Context]].
 
 The following questions are intentionally unresolved and should be answered before detailed technical, political, or historical canon depends on them:
 

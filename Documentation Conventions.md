@@ -22,7 +22,7 @@ Agents and LLMs must not directly write, rewrite, or otherwise edit corpus prose
 | `11 Ship and Crew` | This vessel's programme, installed systems, condition, complement, and formal organization. |
 | `80 Narrative` | Viewpoint choices, characters, relationships, arcs, and planning boards. |
 | `90 Corpus` | User-written prose, creative drafts, fragments, and fictional documents. Author-facing story planning belongs in `80 Narrative`. |
-| `99 Workshop` | Development order, unresolved decision packages, calculation tools, and inherited alternatives. |
+| `99 Workshop` | Current work context, development order, unresolved decision packages, calculation tools, and inherited alternatives. |
 
 Use fixed `00 Core` and `01 World` first, followed by the project-specific `10 Technologies` and `11 Ship and Crew` domains. Supporting folders follow.
 
@@ -67,7 +67,7 @@ An active topical working reference may contain approved constraints and explora
 
 Approved numerical or historical baselines can coexist with an unresolved physical implementation. Identify the actual dependency rather than downgrading every related fact. Where the project has selected a baseline, reopen it only for an identified conflict with a selected mechanism or direct narrative need.
 
-Keep detailed open questions with their topic. [[99 Workshop/00 Revision Priorities|Revision Priorities]] owns their work order and explicit deferrals, linking to the detailed questions. Completed decisions belong in their owners, not repeated at length in the queue or a workbook.
+Keep detailed open questions with their topic. [[99 Workshop/00 Current Work Context|Current Work Context]] owns their work order, continuation plans, loose ends, and explicit deferrals, linking to the detailed questions. Completed decisions belong in their owners, not repeated at length in the queue or a workbook.
 
 ## Writing and Knowledge Layers
 
@@ -98,6 +98,22 @@ Treat Legacy folders as obsolete and leave them alone unless the task explicitly
 For moves and merges, update inbound links, section targets, navigation lists, and ownership statements in editable author-facing documentation together. Exclude corpus text from automated rewriting, including link repair. Report known affected corpus references for the author to update. Remove a superseded wrapper only after its useful material has a destination. Keep summaries short enough that they do not become competing versions of the answer.
 
 Before handoff, apply the validation scope below and verify affected approval, provenance, and deferral boundaries. Check new files as well as existing edits. Report checks and limitations accurately. `git diff --check` checks whitespace only. File comparisons can verify changes without using Git.
+
+## Work Context Maintenance
+
+[Current Work Context](99%20Workshop/00%20Current%20Work%20Context.md) owns work order, next steps and their rationale, short stopping points, loose ends, parked threads, and explicit deferrals. Detailed questions, evidence, calculations, and selected answers remain in their topical notes. Save substantial unfinished reasoning in an existing working note, or a dedicated Workshop note when it needs its own home, and link it from Current Work Context.
+
+1. When starting or resuming project work, read the context page and then only the notes relevant to the chosen thread. The user's current request takes precedence over recorded priorities
+2. During authorised edits, save useful findings and consequential reasoning at meaningful milestones, especially before switching topics. Record rejected approaches or dead ends only when they would prevent worthwhile repeated work
+3. Before pausing, switching threads, or handing off, update only the affected thread: next steps and why, unresolved loose ends, and enough progress context and links to resume. Preserve an interrupted thread's plan when taking a tangent
+4. When work is resolved, retain useful results, decision rationale, and actual approval state in their owners. Remove the resolved entry or replace it with a brief result link. Carry remaining loose ends forward
+5. For discussion-only or no-edit work, offer a short proposed checkpoint in the response if useful. Do not write files against that boundary
+
+Use **Open Threads**, **Later and Parked**, and **Explicit Deferrals**. Keep a simple task to one line and use a short thread note when preparation warrants it. Priorities need not identify the last active thread. Distinguish documented plans from suggested next actions, and state when current focus or a stopping point is unknown. Do not infer authorial intent from modification dates.
+
+A parked thread is unfinished work, not automatically an author-imposed restriction. Preserve the actual scope of explicit deferrals. Listing a task authorises neither its execution nor its possible setting outcomes. Keep proposals, selected decisions, and unresolved alternatives distinguishable.
+
+Keep this a current working page. Dates, IDs, estimates, session logs, exhaustive backlogs, and recurring reviews are not required. Add a date only when it helps interpret a checkpoint. Do not promote every unanswered setting question into a task or refresh untouched entries merely for tidiness. A near-empty page is valid when nothing remains planned.
 
 ## Validation Scope and Stopping Rule
 
