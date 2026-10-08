@@ -8,7 +8,7 @@
 
 ## Scope
 
-This is a history-and-consequences inquiry, not a claim that every non-human person shares common origins or politics. The author-facing term [[00 Core/04 Terminology|uplift]] covers technological, biological, educational, and social processes that enable participation in interstellar civilization. It should never imply that a sponsor grants a person's moral worth or political standing.
+This is a history-and-consequences inquiry, not a claim that every non-human person shares common origins or politics. The author-facing term [[Zone Noire/00 Core/04 Terminology|uplift]] covers technological, biological, educational, and social processes that enable participation in interstellar civilization. It should never imply that a sponsor grants a person's moral worth or political standing.
 
 ## Working Historical Reading
 

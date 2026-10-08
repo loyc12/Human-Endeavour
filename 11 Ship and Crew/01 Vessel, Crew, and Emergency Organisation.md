@@ -48,7 +48,7 @@ This supports a ship that remains a mixed civic institution during crisis rather
 
 ## Candidate Vocabulary
 
-[[00 Core/04 Terminology#Candidate Shipboard Vocabulary|Terminology]] retains the draft cycle names, watch lengths, displays, and thermal/energy-system abbreviations with their exploratory status.
+[[Zone Noire/00 Core/04 Terminology#Candidate Shipboard Vocabulary|Terminology]] retains the draft cycle names, watch lengths, displays, and thermal/energy-system abbreviations with their exploratory status.
 
 ## Approval Questions
 

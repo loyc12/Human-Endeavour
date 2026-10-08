@@ -8,7 +8,7 @@
 
 ## Starting Constraint
 
-One Milky Way alien civilization has an [[00 Core/04 Terminology|independent technological history]] and is the first, and so far only independently spacefaring civilization met in sustained contact. It was encountered about 190 BCD, in the early route era and within what has become the reconnection settlement belt. Its status as the only fully contacted near-peer civilizational-complex of human space made that encounter a major cultural and intellectual shock.
+One Milky Way alien civilization has an [[Zone Noire/00 Core/04 Terminology|independent technological history]] and is the first, and so far only independently spacefaring civilization met in sustained contact. It was encountered about 190 BCD, in the early route era and within what has become the reconnection settlement belt. Its status as the only fully contacted near-peer civilizational-complex of human space made that encounter a major cultural and intellectual shock.
 
 The civilization originates on a habitable moon of a gas giant. Its environment produces difficult radiation, orbital, launch, and communications conditions, while its local moons and accessible volatiles support sophisticated in-system industry, habitats, and navigation. Before contact, it had centuries of spacefaring history, mature system-wide settlement, long-range probes, and a few tiny, slow interstellar footholds within nearby stars. It lacked reliable FTL and remained effectively confined to its local stellar neighbourhood.
 

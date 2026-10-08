@@ -8,9 +8,9 @@
 
 The story's vessel is a governmental pilot programme testing whether a large, long-duration ship can sustain genuinely integrated multispecies life. Exploration is a secondary objective. The [[00 Core/01 Premise|premise]] owns its anomalous displacement, damage constraints, and long-term return problem.
 
-- The programme is sponsored by a [[00 Core/04 Terminology|human-led coalition]] with significant participation from non-human polities. The coalition's final name and constitutional structure remain open.
+- The programme is sponsored by a [[Zone Noire/00 Core/04 Terminology|human-led coalition]] with significant participation from non-human polities. The coalition's final name and constitutional structure remain open.
 - The programme is controversial, but small enough in cost and political scope that its supporters can sustain it. Its design is imperfect rather than intentionally supremacist: human requirements are the most tested, most common among the crew, and best represented among its builders, so conflicting requirements often resolve to a human default with auxiliary accommodations.
-- The crew includes baseline humans, heavily modified human descendants, biological-cybernetic people, rare synthetic intelligences, and uplifted species. An interspecies vessel is one that can safely sustain people whose bodily and environmental needs cannot be met by a human-default habitat. See [[00 Core/04 Terminology|Terminology]].
+- The crew includes baseline humans, heavily modified human descendants, biological-cybernetic people, rare synthetic intelligences, and uplifted species. An interspecies vessel is one that can safely sustain people whose bodily and environmental needs cannot be met by a human-default habitat. See [[Zone Noire/00 Core/04 Terminology|Terminology]].
 - The mission combines civilian and enlisted personnel. Long, normally low-risk voyages require substantial civilian-like work as well as safety and defensive capability. Vetted familial and clan relations are therefore permitted aboard.
 
 ## Working Vessel and Crew

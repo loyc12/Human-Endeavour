@@ -20,7 +20,7 @@ Treat human-touched space as a civilizational system rather than a collection of
 
 The useful structural analogues are globalization, networked information exchange, international organizations, multinational firms, international finance, standards bodies, trade regimes, uneven development, large federations or confederations, and interstellar commonwealth fiction. They are sources of questions, not one-to-one historical allegories.
 
-The project-level tonal and structural references are [[00 Core/05 Inspirations|Star Trek, Star Wars, and Isaac Arthur's futurist work]]. They guide questions and contextual direction. They do not supply imported canon.
+The project-level tonal and structural references are [[Human Endeavour/00 Core/05 Inspirations|Star Trek, Star Wars, and Isaac Arthur's futurist work]]. They guide questions and contextual direction. They do not supply imported canon.
 
 ## Working Rules
 
